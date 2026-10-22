@@ -13,7 +13,7 @@ Athletic Club · Real Madrid · Boston Celtics · Boston Red Sox · New England 
 - **iPhone:** Ajustes → Apps → Calendario → Cuentas → Añadir cuenta → Otra → Añadir calendario suscrito, y pega la URL.
 - **Mac:** Calendario → Archivo → Nuevo calendario suscrito, pega la URL. En "Ubicación" elige **iCloud** para que aparezca también en el iPhone, y en "Actualizar automáticamente" elige "Cada hora".
 
-URL: `https://raw.githubusercontent.com/<usuario>/<repo>/main/partidos.ics`
+URL: `https://raw.githubusercontent.com/maycinena/mis-partidos/main/partidos.ics`
 
 ## Agregar o quitar equipos
 
