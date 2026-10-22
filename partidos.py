@@ -375,6 +375,9 @@ def main() -> int:
     ahora = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
     ics = construir_ics(partidos, cfg.get("calendario", "Mis Equipos"), ahora)
     Path(a.salida).write_text(ics, encoding="utf-8", newline="")
+    estado = {"actualizado": ahora.date().isoformat(), "total": len(partidos), "por_equipo": conteo}
+    Path(a.salida).with_name("estado.json").write_text(
+        json.dumps(estado, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"OK: {len(partidos)} partidos -> {a.salida}", file=sys.stderr)
     return 0
 
