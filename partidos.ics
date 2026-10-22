@@ -1,0 +1,5654 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//mis-partidos//ESPN//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mis Equipos
+X-WR-CALDESC:Partidos de mis equipos (fuente: ESPN). Se actualiza automáti
+ camente.
+X-WR-TIMEZONE:America/Guatemala
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:espn-401816842@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260907T173500Z
+DTEND:20260907T203500Z
+SUMMARY:⚾ Los Angeles Angels 2 @ Boston Red Sox 5
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, NESN\, Angels.TV\nhttps://www.espn.com/mlb/game/_/gameId/401
+ 816842/angels-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401816842/angels-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915451@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260908T190000Z
+DTEND:20260908T210000Z
+SUMMARY:⚽ Real Madrid 2-1 Internazionale
+DESCRIPTION:Champions League\nResultado: FT\nEstadio: Santiago Bernabéu (M
+ adrid\, Spain)\nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/401915451/internazionale-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401915451/internazionale-rea
+ l-madrid
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816853@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260908T224500Z
+DTEND:20260909T014500Z
+SUMMARY:⚾ Los Angeles Angels 6 @ Boston Red Sox 1
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, NESN\, Angels.TV\nhttps://www.espn.com/mlb/game/_/gameId/401
+ 816853/angels-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401816853/angels-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816868@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260909T224500Z
+DTEND:20260910T014500Z
+SUMMARY:⚾ Los Angeles Angels 6 @ Boston Red Sox 4
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, NESN\, Angels.TV\nhttps://www.espn.com/mlb/game/_/gameId/401
+ 816868/angels-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401816868/angels-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872656@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260910T002000Z
+DTEND:20260910T035000Z
+SUMMARY:🏈 New England Patriots 10 @ Seattle Seahawks 13
+DESCRIPTION:NFL\nResultado: Final\nEstadio: Lumen Field (Seattle\, USA)\nTV
+  (EE. UU.): NBC\nhttps://www.espn.com/nfl/game/_/gameId/401872656/patriots
+ -seahawks
+LOCATION:Lumen Field\, Seattle\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879550@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260910T210000Z
+DTEND:20260910T230000Z
+SUMMARY:⚽ Aurora FC 1-2 Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio Cem
+ entos Progreso (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.c
+ om/soccer/match/_/gameId/401879550/municipal-aurora-fc
+LOCATION:Estadio Cementos Progreso\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879550/municipal-aurora-f
+ c
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816892@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260911T231000Z
+DTEND:20260912T021000Z
+SUMMARY:⚾ Kansas City Royals 3 @ Boston Red Sox 2
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, Royals.TV\, NESN\nhttps://www.espn.com/mlb/game/_/gameId/401
+ 816892/royals-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401816892/royals-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882886@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260912T163000Z
+DTEND:20260912T183000Z
+SUMMARY:⚽ Athletic Club 1-1 Elche
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: San Mamés (Bilbao\, Spain)\nTV
+  (EE. UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gam
+ eId/401882886/elche-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882886/elche-athletic-clu
+ b
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882880@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260912T190000Z
+DTEND:20260912T210000Z
+SUMMARY:⚽ Real Madrid 4-1 Rayo Vallecano
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Santiago Bernabéu (Madrid\, Sp
+ ain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018
+ 82880/rayo-vallecano-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882880/rayo-vallecano-rea
+ l-madrid
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816907@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260912T201000Z
+DTEND:20260912T231000Z
+SUMMARY:⚾ Kansas City Royals 1 @ Boston Red Sox 5
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, Royals.TV\, NESN\nhttps://www.espn.com/mlb/game/_/gameId/401
+ 816907/royals-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401816907/royals-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816922@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260913T190500Z
+DTEND:20260913T220500Z
+SUMMARY:⚾ Kansas City Royals 1 @ Boston Red Sox 4
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, Royals.TV\, NESN\nhttps://www.espn.com/mlb/game/_/gameId/401
+ 816922/royals-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401816922/royals-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879554@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260914T010000Z
+DTEND:20260914T030000Z
+SUMMARY:⚽ Municipal 2-2 CD Malacateco
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio El 
+ Trébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socc
+ er/match/_/gameId/401879554/cd-malacateco-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879554/cd-malacateco-muni
+ cipal
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882872@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260915T193000Z
+DTEND:20260915T213000Z
+SUMMARY:⚽ Elche 2-3 Real Madrid
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Estadio Martínez Valero (Elche
+ \, Spain)\nTV (EE. UU.): ESPN2\, ESPN Deportes\, ESPN+\nhttps://www.espn.c
+ om/soccer/match/_/gameId/401882872/real-madrid-elche
+LOCATION:Estadio Martínez Valero\, Elche\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882872/real-madrid-elche
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816951@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260916T000500Z
+DTEND:20260916T030500Z
+SUMMARY:⚾ Boston Red Sox 2 @ Texas Rangers 4
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Globe Life Field (Arlington)\nT
+ V (EE. UU.): MLB.TV\, Rangers Sports Network\, NESN\nhttps://www.espn.com/
+ mlb/game/_/gameId/401816951/red-sox-rangers
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.espn.com/mlb/game/_/gameId/401816951/red-sox-rangers
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816966@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260917T000500Z
+DTEND:20260917T030500Z
+SUMMARY:⚾ Boston Red Sox 3 @ Texas Rangers 7
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Globe Life Field (Arlington)\nT
+ V (EE. UU.): MLB.TV\, Rangers Sports Network\, NESN\nhttps://www.espn.com/
+ mlb/game/_/gameId/401816966/red-sox-rangers
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.espn.com/mlb/game/_/gameId/401816966/red-sox-rangers
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816977@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260918T000500Z
+DTEND:20260918T030500Z
+SUMMARY:⚾ Boston Red Sox 4 @ Texas Rangers 3
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Globe Life Field (Arlington)\nT
+ V (EE. UU.): MLB.TV\, Rangers Sports Network\, NESN\nhttps://www.espn.com/
+ mlb/game/_/gameId/401816977/red-sox-rangers
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.espn.com/mlb/game/_/gameId/401816977/red-sox-rangers
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816983@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260918T231000Z
+DTEND:20260919T021000Z
+SUMMARY:⚾ Boston Red Sox 4 @ Tampa Bay Rays 2
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Tropicana Field (St. Petersburg
+ )\nTV (EE. UU.): ESPN Unlmtd\, MLB.TV\, Rays.TV\, NESN\nhttps://www.espn.c
+ om/mlb/game/_/gameId/401816983/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401816983/red-sox-rays
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882866@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260919T141500Z
+DTEND:20260919T161500Z
+SUMMARY:⚽ Athletic Club 0-0 Alavés
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: San Mamés (Bilbao\, Spain)\nTV
+  (EE. UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gam
+ eId/401882866/alaves-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882866/alaves-athletic-cl
+ ub
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401816998@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260919T201000Z
+DTEND:20260919T231000Z
+SUMMARY:⚾ Boston Red Sox 1 @ Tampa Bay Rays 2
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Tropicana Field (St. Petersburg
+ )\nTV (EE. UU.): MLB.TV\, Rays.TV\, NESN\nhttps://www.espn.com/mlb/game/_/
+ gameId/401816998/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401816998/red-sox-rays
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882865@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260920T141500Z
+DTEND:20260920T161500Z
+SUMMARY:⚽ Atlético Madrid 2-1 Real Madrid
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Riyadh Air Metropolitano (Madri
+ d\, Spain)\nTV (EE. UU.): ESPN2\, ESPN Deportes\, ESPN+\nhttps://www.espn.
+ com/soccer/match/_/gameId/401882865/real-madrid-atletico-madrid
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882865/real-madrid-atleti
+ co-madrid
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872946@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260920T170000Z
+DTEND:20260920T203000Z
+SUMMARY:🏈 Pittsburgh Steelers 3 @ New England Patriots 20
+DESCRIPTION:NFL\nResultado: Final\nEstadio: Gillette Stadium (Foxborough\, 
+ USA)\nTV (EE. UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/401872946/
+ steelers-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872946/steelers-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817013@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260920T174000Z
+DTEND:20260920T204000Z
+SUMMARY:⚾ Boston Red Sox 1 @ Tampa Bay Rays 5
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Tropicana Field (St. Petersburg
+ )\nTV (EE. UU.): ESPN Unlmtd\, MLB.TV\, Rays.TV\, NESN\nhttps://www.espn.c
+ om/mlb/game/_/gameId/401817013/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401817013/red-sox-rays
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817031@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260922T224500Z
+DTEND:20260923T014500Z
+SUMMARY:⚾ Cleveland Guardians 3 @ Boston Red Sox 2
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, CLEGuardians.TV\, NESN\nhttps://www.espn.com/mlb/game/_/game
+ Id/401817031/guardians-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401817031/guardians-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817046@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260923T230000Z
+DTEND:20260924T020000Z
+SUMMARY:⚾ Cleveland Guardians 0 @ Boston Red Sox 1
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): ESPN\nhttps://www.espn.com/mlb/game/_/gameId/401817046/guardians-red-
+ sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401817046/guardians-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817061@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260924T224500Z
+DTEND:20260925T014500Z
+SUMMARY:⚾ Cleveland Guardians 1 @ Boston Red Sox 0
+DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
+ U.): MLB.TV\, CLEGuardians.TV\, NESN\nhttps://www.espn.com/mlb/game/_/game
+ Id/401817061/guardians-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401817061/guardians-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879564@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260925T020000Z
+DTEND:20260925T040000Z
+SUMMARY:⚽ Municipal 3-0 Suchitepequez
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio El 
+ Trébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socc
+ er/match/_/gameId/401879564/suchitepequez-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879564/suchitepequez-muni
+ cipal
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817104@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260925T170500Z
+DTEND:20260925T200500Z
+SUMMARY:⚾ Chicago Cubs 3 @ Boston Red Sox 4
+DESCRIPTION:MLB · Doubleheader - Game 1 - Rescheduled from Sep. 27\nResult
+ ado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. UU.): MLB.TV\, Marquee 
+ Sports Net\nhttps://www.espn.com/mlb/game/_/gameId/401817104/cubs-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401817104/cubs-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817074@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260925T213000Z
+DTEND:20260926T003000Z
+SUMMARY:⚾ Chicago Cubs 0 @ Boston Red Sox 2
+DESCRIPTION:MLB · Doubleheader - Game 2\nResultado: Final\nEstadio: Fenway
+  Park (Boston)\nTV (EE. UU.): ESPN Unlmtd\, MLB.TV\, Marquee Sports Net\, 
+ NESN\nhttps://www.espn.com/mlb/game/_/gameId/401817074/cubs-red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401817074/cubs-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401900631@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260926T000000Z
+DTEND:20260926T020000Z
+SUMMARY:🇬🇹 Jamaica 3-2 Guatemala
+DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Independence
+  Park (Sabina Park\, Jamaica)\nhttps://www.espn.com/soccer/match/_/gameId/
+ 401900631/guatemala-jamaica
+LOCATION:Independence Park\, Sabina Park\, Jamaica
+URL:https://www.espn.com/soccer/match/_/gameId/401900631/guatemala-jamaica
+CATEGORIES:Liga de Naciones Concacaf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872957@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260927T170000Z
+DTEND:20260927T203000Z
+SUMMARY:🏈 New England Patriots 6 @ Jacksonville Jaguars 35
+DESCRIPTION:NFL\nResultado: Final\nEstadio: EverBank Stadium (Jacksonville\
+ , USA)\nTV (EE. UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/40187295
+ 7/patriots-jaguars
+LOCATION:EverBank Stadium\, Jacksonville\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872957/patriots-jaguars
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401817089@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260927T190500Z
+DTEND:20260927T220500Z
+SUMMARY:⚾ Chicago Cubs 6 @ Boston Red Sox 2
+DESCRIPTION:MLB · Rescheduled from 9/26\nResultado: Final\nEstadio: Tropic
+ ana Field (St. Petersburg)\nTV (EE. UU.): MLB.TV\, Marquee Sports Net\nhtt
+ ps://www.espn.com/mlb/game/_/gameId/401817089/cubs-red-sox
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401817089/cubs-red-sox
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401900610@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260929T020000Z
+DTEND:20260929T040000Z
+SUMMARY:🇬🇹 Guatemala 6-0 El Salvador
+DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Estadio El T
+ rébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socce
+ r/match/_/gameId/401900610/el-salvador-guatemala
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401900610/el-salvador-guatem
+ ala
+CATEGORIES:Liga de Naciones Concacaf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907924@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20260930T000000Z
+DTEND:20260930T030000Z
+SUMMARY:⚾ Boston Red Sox 0 @ New York Yankees 9
+DESCRIPTION:MLB · Playoffs · ALWC - Game 1\nResultado: Final\nEstadio: Ya
+ nkee Stadium (Bronx)\nTV (EE. UU.): NBC\, ERADM\nhttps://www.espn.com/mlb/
+ game/_/gameId/401907924/red-sox-yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401907924/red-sox-yankees
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401907963@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261001T000000Z
+DTEND:20261001T030000Z
+SUMMARY:⚾ Boston Red Sox 2 @ New York Yankees 9
+DESCRIPTION:MLB · Playoffs · ALWC - Game 2\nResultado: Final\nEstadio: Ya
+ nkee Stadium (Bronx)\nTV (EE. UU.): NBC\, ERADM\nhttps://www.espn.com/mlb/
+ game/_/gameId/401907963/red-sox-yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401907963/red-sox-yankees
+CATEGORIES:MLB
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401900603@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261002T220000Z
+DTEND:20261003T000000Z
+SUMMARY:🇬🇹 Suriname 0-0 Guatemala
+DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Franklin Ess
+ ed Stadion (Franklin Essed Stadion\, Suriname)\nhttps://www.espn.com/socce
+ r/match/_/gameId/401900603/guatemala-suriname
+LOCATION:Franklin Essed Stadion\, Franklin Essed Stadion\, Suriname
+URL:https://www.espn.com/soccer/match/_/gameId/401900603/guatemala-suriname
+CATEGORIES:Liga de Naciones Concacaf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872971@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261004T170000Z
+DTEND:20261004T203000Z
+SUMMARY:🏈 New England Patriots 29 @ Buffalo Bills 26
+DESCRIPTION:NFL\nResultado: Final\nEstadio: Highmark Stadium (Orchard Park\
+ , USA)\nTV (EE. UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/40187297
+ 1/patriots-bills
+LOCATION:Highmark Stadium\, Orchard Park\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872971/patriots-bills
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401900581@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261006T000000Z
+DTEND:20261006T020000Z
+SUMMARY:🇬🇹 Guatemala 1-0 Suriname
+DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Estadio El T
+ rébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socce
+ r/match/_/gameId/401900581/suriname-guatemala
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401900581/suriname-guatemala
+CATEGORIES:Liga de Naciones Concacaf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879561@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261009T010000Z
+DTEND:20261009T030000Z
+SUMMARY:⚽ Antigua GFC 1-1 Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio Pen
+ sativo (Antigua Guatemala\, Guatemala)\nhttps://www.espn.com/soccer/match/
+ _/gameId/401879561/municipal-antigua-gfc
+LOCATION:Estadio Pensativo\, Antigua Guatemala\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879561/municipal-antigua-
+ gfc
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882848@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261010T190000Z
+DTEND:20261010T210000Z
+SUMMARY:⚽ Real Madrid 1-0 Villarreal
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Santiago Bernabéu (Madrid\, Sp
+ ain)\nTV (EE. UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/mat
+ ch/_/gameId/401882848/villarreal-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882848/villarreal-real-ma
+ drid
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401872986@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261011T170000Z
+DTEND:20261011T203000Z
+SUMMARY:🏈 Las Vegas Raiders 17 @ New England Patriots 45
+DESCRIPTION:NFL\nResultado: Final\nEstadio: Gillette Stadium (Foxborough\, 
+ USA)\nTV (EE. UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/401872986/
+ raiders-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401872986/raiders-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879576@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261011T230000Z
+DTEND:20261012T010000Z
+SUMMARY:⚽ Municipal 1-1 Marquense
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio El 
+ Trébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socc
+ er/match/_/gameId/401879576/marquense-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879576/marquense-municipa
+ l
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915414@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261014T190000Z
+DTEND:20261014T210000Z
+SUMMARY:⚽ AS Roma 3-4 Real Madrid
+DESCRIPTION:Champions League\nResultado: FT\nEstadio: Olimpico (Roma\, Ital
+ y)\nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/4
+ 01915414/real-madrid-as-roma
+LOCATION:Olimpico\, Roma\, Italy
+URL:https://www.espn.com/soccer/match/_/gameId/401915414/real-madrid-as-rom
+ a
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879580@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261015T210000Z
+DTEND:20261015T230000Z
+SUMMARY:⚽ Cobán Imperial 2-1 Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio Ver
+ apaz Jose Angel Rossi (Cobán\, Guatemala)\nhttps://www.espn.com/soccer/ma
+ tch/_/gameId/401879580/municipal-coban-imperial
+LOCATION:Estadio Verapaz Jose Angel Rossi\, Cobán\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879580/municipal-coban-im
+ perial
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882838@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261017T190000Z
+DTEND:20261017T210000Z
+SUMMARY:⚽ Valencia 0-0 Athletic Club
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Mestalla Stadium (Manises\, Spa
+ in)\nTV (EE. UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/401882838/athletic-club-valencia
+LOCATION:Mestalla Stadium\, Manises\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882838/athletic-club-vale
+ ncia
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873001@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261018T170000Z
+DTEND:20261018T203000Z
+SUMMARY:🏈 New York Jets 19 @ New England Patriots 26
+DESCRIPTION:NFL\nResultado: Final\nEstadio: Gillette Stadium (Foxborough\, 
+ USA)\nTV (EE. UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/401873001/
+ jets-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873001/jets-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882839@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261018T190000Z
+DTEND:20261018T210000Z
+SUMMARY:⚽ Real Madrid 4-1 Sevilla
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Santiago Bernabéu (Madrid\, Sp
+ ain)\nTV (EE. UU.): ABC\, ESPN Deportes\, ESPN+\nhttps://www.espn.com/socc
+ er/match/_/gameId/401882839/sevilla-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882839/sevilla-real-madri
+ d
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879584@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261019T000000Z
+DTEND:20261019T020000Z
+SUMMARY:⚽ Municipal 1-1 CD Guastatoya
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio El 
+ Trébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socc
+ er/match/_/gameId/401879584/cd-guastatoya-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879584/cd-guastatoya-muni
+ cipal
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909088@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261020T190000Z
+DTEND:20261020T213000Z
+SUMMARY:🏀 Boston Celtics 113 @ Detroit Pistons 121
+DESCRIPTION:NBA\nResultado: Final\nEstadio: Little Caesars Arena (Detroit)\
+ nTV (EE. UU.): NBC\nhttps://www.espn.com/nba/game/_/gameId/401909088/celti
+ cs-pistons
+LOCATION:Little Caesars Arena\, Detroit
+URL:https://www.espn.com/nba/game/_/gameId/401909088/celtics-pistons
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882870@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261021T180000Z
+DTEND:20261021T200000Z
+SUMMARY:⚽ Levante 3-1 Athletic Club
+DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Estadi Ciutat de València (Man
+ ises\, Spain)\nTV (EE. UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/s
+ occer/match/_/gameId/401882870/athletic-club-levante
+LOCATION:Estadi Ciutat de València\, Manises\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882870/athletic-club-leva
+ nte
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915313@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261021T190000Z
+DTEND:20261021T210000Z
+SUMMARY:⚽ Real Madrid 4-1 RB Leipzig
+DESCRIPTION:Champions League\nResultado: FT\nEstadio: Santiago Bernabéu (M
+ adrid\, Spain)\nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/401915313/rb-leipzig-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401915313/rb-leipzig-real-ma
+ drid
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879570@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261021T210000Z
+DTEND:20261021T230000Z
+SUMMARY:⚽ Deportivo Mixco 0-0 Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio San
+ to Domingo de Guzmán (Mixco\, Guatemala)\nhttps://www.espn.com/soccer/mat
+ ch/_/gameId/401879570/municipal-deportivo-mixco
+LOCATION:Estadio Santo Domingo de Guzmán\, Mixco\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879570/municipal-deportiv
+ o-mixco
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873010@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261023T001500Z
+DTEND:20261023T034500Z
+SUMMARY:🏈 New England Patriots @ Chicago Bears
+DESCRIPTION:NFL\nEstadio: Soldier Field (Chicago\, USA)\nTV (EE. UU.): Prim
+ e Video\nhttps://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears
+LOCATION:Soldier Field\, Chicago\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909095@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261023T230000Z
+DTEND:20261024T013000Z
+SUMMARY:🏀 New York Knicks @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): Prime Video\nht
+ tps://www.espn.com/nba/game/_/gameId/401909095/knicks-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909095/knicks-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879588@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261024T200000Z
+DTEND:20261024T220000Z
+SUMMARY:⚽ Xelajú MC vs Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio Mario Camposeco (Q
+ uetzaltenango\, Guatemala)\nhttps://www.espn.com/soccer/match/_/gameId/401
+ 879588/municipal-xelaju-mc
+LOCATION:Estadio Mario Camposeco\, Quetzaltenango\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879588/municipal-xelaju-m
+ c
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882835@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261025T130000Z
+DTEND:20261025T150000Z
+SUMMARY:⚽ Athletic Club vs Getafe
+DESCRIPTION:LaLiga\nEstadio: San Mamés (Bilbao\, Spain)\nTV (EE. UU.): ESP
+ N+\nhttps://www.espn.com/soccer/match/_/gameId/401882835/getafe-athletic-c
+ lub
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882835/getafe-athletic-cl
+ ub
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882832@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:⚽ Barcelona vs Real Madrid
+DESCRIPTION:LaLiga\nEstadio: Spotify Camp Nou (Barcelona\, Spain)\nTV (EE. 
+ UU.): ABC\, ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gam
+ eId/401882832/real-madrid-barcelona
+LOCATION:Spotify Camp Nou\, Barcelona\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882832/real-madrid-barcel
+ ona
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909870@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261026T233000Z
+DTEND:20261027T020000Z
+SUMMARY:🏀 Chicago Bulls @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBA League Pass
+ \nhttps://www.espn.com/nba/game/_/gameId/401909870/bulls-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909870/bulls-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909877@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261027T233000Z
+DTEND:20261028T020000Z
+SUMMARY:🏀 Brooklyn Nets @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBA League Pass
+ \, DAZN (YES)\nhttps://www.espn.com/nba/game/_/gameId/401909877/nets-celti
+ cs
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909877/nets-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879597@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261029T020000Z
+DTEND:20261029T040000Z
+SUMMARY:⚽ Municipal vs Comunicaciones
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio El Trébol (Estadi
+ o Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/match/_/game
+ Id/401879597/comunicaciones-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879597/comunicaciones-mun
+ icipal
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401928513@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261029T200000Z
+DTEND:20261029T220000Z
+SUMMARY:⚽ AE Prat vs Athletic Club
+DESCRIPTION:Copa del Rey\nEstadio: Estadi Municipal de Futbol de L'Hospital
+ et (L´Hospitalet de Llobregat\, Barcelona\, Spain)\nTV (EE. UU.): ESPN+\n
+ https://www.espn.com/soccer/match/_/gameId/401928513/athletic-club-ae-prat
+LOCATION:Estadi Municipal de Futbol de L'Hospitalet\, L´Hospitalet de Llob
+ regat\, Barcelona\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401928513/athletic-club-ae-p
+ rat
+CATEGORIES:Copa del Rey
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909278@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261030T233000Z
+DTEND:20261031T020000Z
+SUMMARY:🏀 Chicago Bulls @ Boston Celtics
+DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: TD Garden (Boston)\nTV (E
+ E. UU.): NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401909278
+ /bulls-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909278/bulls-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882819@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261101T151500Z
+DTEND:20261101T171500Z
+SUMMARY:⚽ Racing Santander vs Real Madrid
+DESCRIPTION:LaLiga\nEstadio: El Sardineros (Santander\, Spain)\nTV (EE. UU.
+ ): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/40188
+ 2819/real-madrid-racing-santander
+LOCATION:El Sardineros\, Santander\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882819/real-madrid-racing
+ -santander
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882826@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:⚽ Athletic Club vs Real Sociedad
+DESCRIPTION:LaLiga\nEstadio: San Mamés (Bilbao\, Spain)\nTV (EE. UU.): ESP
+ N Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882826/r
+ eal-sociedad-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882826/real-sociedad-athl
+ etic-club
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909903@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261101T203000Z
+DTEND:20261101T230000Z
+SUMMARY:🏀 Boston Celtics @ Orlando Magic
+DESCRIPTION:NBA\nEstadio: Kia Center (Orlando)\nTV (EE. UU.): NBA League Pa
+ ss\nhttps://www.espn.com/nba/game/_/gameId/401909903/celtics-magic
+LOCATION:Kia Center\, Orlando
+URL:https://www.espn.com/nba/game/_/gameId/401909903/celtics-magic
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879640@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261101T210000Z
+DTEND:20261101T230000Z
+SUMMARY:⚽ Deportivo San Pedro vs Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio Municipal de San P
+ edro Sacatepéquez (San Pedro Sacatepéquez\, Guatemala)\nhttps://www.espn
+ .com/soccer/match/_/gameId/401879640/municipal-deportivo-san-pedro
+LOCATION:Estadio Municipal de San Pedro Sacatepéquez\, San Pedro Sacatepé
+ quez\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879640/municipal-deportiv
+ o-san-pedro
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873034@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261101T212500Z
+DTEND:20261102T005500Z
+SUMMARY:🏈 New England Patriots @ Miami Dolphins
+DESCRIPTION:NFL\nEstadio: Hard Rock Stadium (Miami Gardens\, USA)\nTV (EE. 
+ UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/401873034/patriots-dolph
+ ins
+LOCATION:Hard Rock Stadium\, Miami Gardens\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873034/patriots-dolphins
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909916@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261103T013000Z
+DTEND:20261103T040000Z
+SUMMARY:🏀 Boston Celtics @ Houston Rockets
+DESCRIPTION:NBA\nEstadio: Toyota Center (Houston) (Houston)\nTV (EE. UU.): 
+ NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401909916/celtics-
+ rockets
+LOCATION:Toyota Center (Houston)\, Houston
+URL:https://www.espn.com/nba/game/_/gameId/401909916/celtics-rockets
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915383@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261104T174500Z
+DTEND:20261104T194500Z
+SUMMARY:⚽ AEK Athens vs Real Madrid
+DESCRIPTION:Champions League\nEstadio: OPAP Arena (Athens\, Greece)\nTV (EE
+ . UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/401915383/r
+ eal-madrid-aek-athens
+LOCATION:OPAP Arena\, Athens\, Greece
+URL:https://www.espn.com/soccer/match/_/gameId/401915383/real-madrid-aek-at
+ hens
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909924@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261105T003000Z
+DTEND:20261105T030000Z
+SUMMARY:🏀 Milwaukee Bucks @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): MyMi\, Bucks Ap
+ p\nhttps://www.espn.com/nba/game/_/gameId/401909924/bucks-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909924/bucks-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909288@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261107T000000Z
+DTEND:20261107T023000Z
+SUMMARY:🏀 Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: Spectrum Center (Charlott
+ e)\nhttps://www.espn.com/nba/game/_/gameId/401909288/celtics-hornets
+LOCATION:Spectrum Center\, Charlotte
+URL:https://www.espn.com/nba/game/_/gameId/401909288/celtics-hornets
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882811@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261107T173000Z
+DTEND:20261107T193000Z
+SUMMARY:⚽ Osasuna vs Athletic Club
+DESCRIPTION:LaLiga\nEstadio: El Sadar (Pamplona\, Spain)\nTV (EE. UU.): ESP
+ N+\nhttps://www.espn.com/soccer/match/_/gameId/401882811/athletic-club-osa
+ suna
+LOCATION:El Sadar\, Pamplona\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882811/athletic-club-osas
+ una
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882808@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261107T200000Z
+DTEND:20261107T220000Z
+SUMMARY:⚽ Valencia vs Real Madrid
+DESCRIPTION:LaLiga\nEstadio: Mestalla Stadium (Manises\, Spain)\nTV (EE. UU
+ .): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882808/real-madri
+ d-valencia
+LOCATION:Mestalla Stadium\, Manises\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882808/real-madrid-valenc
+ ia
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879605@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261107T230000Z
+DTEND:20261108T010000Z
+SUMMARY:⚽ Municipal vs Aurora FC
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio El Trébol (Estadi
+ o Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/match/_/game
+ Id/401879605/aurora-fc-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879605/aurora-fc-municipa
+ l
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873049@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261108T212500Z
+DTEND:20261109T005500Z
+SUMMARY:🏈 Green Bay Packers @ New England Patriots
+DESCRIPTION:NFL\nEstadio: Gillette Stadium (Foxborough\, USA)\nTV (EE. UU.)
+ : Fox\nhttps://www.espn.com/nfl/game/_/gameId/401873049/packers-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873049/packers-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909949@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261109T010000Z
+DTEND:20261109T033000Z
+SUMMARY:🏀 Boston Celtics @ Milwaukee Bucks
+DESCRIPTION:NBA\nEstadio: Fiserv Forum (Milwaukee)\nTV (EE. UU.): MyMi\, Bu
+ cks App\nhttps://www.espn.com/nba/game/_/gameId/401909949/celtics-bucks
+LOCATION:Fiserv Forum\, Milwaukee
+URL:https://www.espn.com/nba/game/_/gameId/401909949/celtics-bucks
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909961@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261111T010000Z
+DTEND:20261111T033000Z
+SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers
+DESCRIPTION:NBA\nEstadio: Xfinity Mobile Arena (Philadelphia)\nTV (EE. UU.)
+ : NBC\nhttps://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+URL:https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909968@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261112T000000Z
+DTEND:20261112T023000Z
+SUMMARY:🏀 Boston Celtics @ Toronto Raptors
+DESCRIPTION:NBA\nEstadio: Scotiabank Arena (Toronto)\nhttps://www.espn.com/
+ nba/game/_/gameId/401909968/celtics-raptors
+LOCATION:Scotiabank Arena\, Toronto
+URL:https://www.espn.com/nba/game/_/gameId/401909968/celtics-raptors
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401929711@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261114T020000Z
+DTEND:20261114T040000Z
+SUMMARY:🇬🇹 Guatemala vs Canada
+DESCRIPTION:Liga de Naciones Concacaf · 1st Leg\nEstadio: Estadio El Tréb
+ ol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/ma
+ tch/_/gameId/401929711/canada-guatemala
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401929711/canada-guatemala
+CATEGORIES:Liga de Naciones Concacaf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879609@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261115T010000Z
+DTEND:20261115T030000Z
+SUMMARY:⚽ CD Malacateco vs Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio Municipal Santa Lu
+ cía (Malacatán\, Guatemala)\nhttps://www.espn.com/soccer/match/_/gameId/
+ 401879609/municipal-cd-malacateco
+LOCATION:Estadio Municipal Santa Lucía\, Malacatán\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879609/municipal-cd-malac
+ ateco
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873053@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261115T143000Z
+DTEND:20261115T180000Z
+SUMMARY:🏈 New England Patriots @ Detroit Lions
+DESCRIPTION:NFL · NFL Munich Game\nEstadio: FC Bayern Munich Stadium (Muni
+ ch\, Germany)\nTV (EE. UU.): Fox\nhttps://www.espn.com/nfl/game/_/gameId/4
+ 01873053/patriots-lions
+LOCATION:FC Bayern Munich Stadium\, Munich\, Germany
+URL:https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909989@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261115T230000Z
+DTEND:20261116T013000Z
+SUMMARY:🏀 Dallas Mavericks @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): KFAA-TV\, MavsT
+ V\nhttps://www.espn.com/nba/game/_/gameId/401909989/mavericks-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909989/mavericks-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909994@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261117T000000Z
+DTEND:20261117T023000Z
+SUMMARY:🏀 Orlando Magic @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBCSN\nhttps://
+ www.espn.com/nba/game/_/gameId/401909994/magic-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909994/magic-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401929770@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261117T010000Z
+DTEND:20261117T030000Z
+SUMMARY:🇬🇹 Canada vs Guatemala
+DESCRIPTION:Liga de Naciones Concacaf · 2nd Leg\nEstadio: BMO Field (Toron
+ to\, Canada)\nhttps://www.espn.com/soccer/match/_/gameId/401929770/guatema
+ la-canada
+LOCATION:BMO Field\, Toronto\, Canada
+URL:https://www.espn.com/soccer/match/_/gameId/401929770/guatemala-canada
+CATEGORIES:Liga de Naciones Concacaf
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910015@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261119T020000Z
+DTEND:20261119T043000Z
+SUMMARY:🏀 Boston Celtics @ Denver Nuggets
+DESCRIPTION:NBA\nEstadio: Ball Arena (Denver)\nhttps://www.espn.com/nba/gam
+ e/_/gameId/401910015/celtics-nuggets
+LOCATION:Ball Arena\, Denver
+URL:https://www.espn.com/nba/game/_/gameId/401910015/celtics-nuggets
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882805@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261120T200000Z
+DTEND:20261120T220000Z
+SUMMARY:⚽ Athletic Club vs Espanyol
+DESCRIPTION:LaLiga\nEstadio: San Mamés (Bilbao\, Spain)\nTV (EE. UU.): ESP
+ N Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882805/e
+ spanyol-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882805/espanyol-athletic-
+ club
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882798@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261121T200000Z
+DTEND:20261121T220000Z
+SUMMARY:⚽ Real Madrid vs Celta Vigo
+DESCRIPTION:LaLiga\nEstadio: Santiago Bernabéu (Madrid\, Spain)\nTV (EE. U
+ U.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401
+ 882798/celta-vigo-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882798/celta-vigo-real-ma
+ drid
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910028@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261122T030000Z
+DTEND:20261122T053000Z
+SUMMARY:🏀 Boston Celtics @ Sacramento Kings
+DESCRIPTION:NBA\nEstadio: Golden 1 Center (Sacramento)\nTV (EE. UU.): NBA T
+ V\nhttps://www.espn.com/nba/game/_/gameId/401910028/celtics-kings
+LOCATION:Golden 1 Center\, Sacramento
+URL:https://www.espn.com/nba/game/_/gameId/401910028/celtics-kings
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879616@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261122T230500Z
+DTEND:20261123T010500Z
+SUMMARY:⚽ Municipal vs Antigua GFC
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio El Trébol (Estadi
+ o Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/match/_/game
+ Id/401879616/antigua-gfc-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879616/antigua-gfc-munici
+ pal
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910035@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261123T013000Z
+DTEND:20261123T040000Z
+SUMMARY:🏀 Boston Celtics @ Golden State Warriors
+DESCRIPTION:NBA\nEstadio: Chase Center (San Francisco)\nhttps://www.espn.co
+ m/nba/game/_/gameId/401910035/celtics-warriors
+LOCATION:Chase Center\, San Francisco
+URL:https://www.espn.com/nba/game/_/gameId/401910035/celtics-warriors
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915298@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261124T200000Z
+DTEND:20261124T220000Z
+SUMMARY:⚽ Real Madrid vs PSV Eindhoven
+DESCRIPTION:Champions League\nEstadio: Santiago Bernabéu (Madrid\, Spain)\
+ nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/4019
+ 15298/psv-eindhoven-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401915298/psv-eindhoven-real
+ -madrid
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909315@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261125T010000Z
+DTEND:20261125T033000Z
+SUMMARY:🏀 Boston Celtics @ Washington Wizards
+DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: Capital One Arena (Washin
+ gton)\nTV (EE. UU.): NBC\nhttps://www.espn.com/nba/game/_/gameId/401909315
+ /celtics-wizards
+LOCATION:Capital One Arena\, Washington
+URL:https://www.espn.com/nba/game/_/gameId/401909315/celtics-wizards
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909330@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261128T010000Z
+DTEND:20261128T033000Z
+SUMMARY:🏀 Atlanta Hawks @ Boston Celtics
+DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: TD Garden (Boston)\nhttps
+ ://www.espn.com/nba/game/_/gameId/401909330/hawks-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909330/hawks-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879619@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261128T210000Z
+DTEND:20261128T230000Z
+SUMMARY:⚽ Suchitepequez vs Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio Carlos Salazar Hij
+ o (Suchitepéquez\, Guatemala)\nhttps://www.espn.com/soccer/match/_/gameId
+ /401879619/municipal-suchitepequez
+LOCATION:Estadio Carlos Salazar Hijo\, Suchitepéquez\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879619/municipal-suchitep
+ equez
+CATEGORIES:Liga Nacional de Guatemala
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882790@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:⚽ Málaga vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: La Rosaleda (Malaga\, Spai
+ n)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882
+ 790/athletic-club-malaga
+LOCATION:La Rosaleda\, Malaga\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882790/athletic-club-mala
+ ga
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882789@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:⚽ Real Madrid vs Alavés
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882789/alaves-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882789/alaves-real-madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910052@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261129T210000Z
+DTEND:20261129T233000Z
+SUMMARY:🏀 Boston Celtics @ San Antonio Spurs
+DESCRIPTION:NBA\nEstadio: Frost Bank Center (San Antonio)\nTV (EE. UU.): NB
+ A TV\, DAZN SAS\nhttps://www.espn.com/nba/game/_/gameId/401910052/celtics-
+ spurs
+LOCATION:Frost Bank Center\, San Antonio
+URL:https://www.espn.com/nba/game/_/gameId/401910052/celtics-spurs
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873093@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261130T012000Z
+DTEND:20261130T045000Z
+SUMMARY:🏈 New England Patriots @ Los Angeles Chargers
+DESCRIPTION:NFL\nEstadio: SoFi Stadium (Inglewood\, USA)\nTV (EE. UU.): NBC
+ \nhttps://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers
+LOCATION:SoFi Stadium\, Inglewood\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910065@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261201T010000Z
+DTEND:20261201T033000Z
+SUMMARY:🏀 Boston Celtics @ Dallas Mavericks
+DESCRIPTION:NBA\nEstadio: American Airlines Center (Dallas)\nTV (EE. UU.): 
+ KFAA-TV\, MavsTV\nhttps://www.espn.com/nba/game/_/gameId/401910065/celtics
+ -mavericks
+LOCATION:American Airlines Center\, Dallas
+URL:https://www.espn.com/nba/game/_/gameId/401910065/celtics-mavericks
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910078@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261203T003000Z
+DTEND:20261203T030000Z
+SUMMARY:🏀 Charlotte Hornets @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910078/hornets-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910078/hornets-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882785@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:⚽ Athletic Club vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 85/real-madrid-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882785/real-madrid-athlet
+ ic-club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873105@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261206T212500Z
+DTEND:20261207T005500Z
+SUMMARY:🏈 Buffalo Bills @ New England Patriots
+DESCRIPTION:NFL\nEstadio: Gillette Stadium (Foxborough\, USA)\nTV (EE. UU.)
+ : CBS\nhttps://www.espn.com/nfl/game/_/gameId/401873105/bills-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873105/bills-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915367@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261209T200000Z
+DTEND:20261209T220000Z
+SUMMARY:⚽ Arsenal vs Real Madrid
+DESCRIPTION:Champions League\nEstadio: Emirates Stadium (London\, England)\
+ nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/4019
+ 15367/real-madrid-arsenal
+LOCATION:Emirates Stadium\, London\, England
+URL:https://www.espn.com/soccer/match/_/gameId/401915367/real-madrid-arsena
+ l
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873109@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261211T011500Z
+DTEND:20261211T044500Z
+SUMMARY:🏈 Minnesota Vikings @ New England Patriots
+DESCRIPTION:NFL\nEstadio: Gillette Stadium (Foxborough\, USA)\nTV (EE. UU.)
+ : Prime Video\nhttps://www.espn.com/nfl/game/_/gameId/401873109/vikings-pa
+ triots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873109/vikings-patriots
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882774@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:⚽ Deportivo vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Riazor (La Coruña\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 74/athletic-club-deportivo
+LOCATION:Riazor\, La Coruña\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882774/athletic-club-depo
+ rtivo
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882769@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:⚽ Real Madrid vs Osasuna
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882769/osasuna-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882769/osasuna-real-madri
+ d
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910098@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261213T200000Z
+DTEND:20261213T223000Z
+SUMMARY:🏀 Boston Celtics @ Brooklyn Nets
+DESCRIPTION:NBA\nEstadio: Barclays Center (Brooklyn)\nTV (EE. UU.): DAZN (Y
+ ES)\nhttps://www.espn.com/nba/game/_/gameId/401910098/celtics-nets
+LOCATION:Barclays Center\, Brooklyn
+URL:https://www.espn.com/nba/game/_/gameId/401910098/celtics-nets
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910107@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261215T003000Z
+DTEND:20261215T030000Z
+SUMMARY:🏀 Washington Wizards @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): MNMT\nhttps://w
+ ww.espn.com/nba/game/_/gameId/401910107/wizards-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910107/wizards-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910117@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261217T000000Z
+DTEND:20261217T023000Z
+SUMMARY:🏀 Washington Wizards @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ESPN\, MNMT\nht
+ tps://www.espn.com/nba/game/_/gameId/401910117/wizards-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910117/wizards-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910136@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261219T003000Z
+DTEND:20261219T030000Z
+SUMMARY:🏀 Utah Jazz @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): KJZZ-TV\, Jazz+
+ \nhttps://www.espn.com/nba/game/_/gameId/401910136/jazz-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910136/jazz-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882765@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:⚽ Athletic Club vs Real Betis
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 65/real-betis-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882765/real-betis-athleti
+ c-club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882763@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:⚽ Deportivo vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Riazor (La Coruña\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 63/real-madrid-deportivo
+LOCATION:Riazor\, La Coruña\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882763/real-madrid-deport
+ ivo
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910156@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261221T010000Z
+DTEND:20261221T033000Z
+SUMMARY:🏀 Detroit Pistons @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910156/pistons-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910156/pistons-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873139@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261222T011500Z
+DTEND:20261222T044500Z
+SUMMARY:🏈 New England Patriots @ Kansas City Chiefs
+DESCRIPTION:NFL\nEstadio: Arrowhead Stadium (Kansas City\, USA)\nTV (EE. UU
+ .): ESPN\, ABC\nhttps://www.espn.com/nfl/game/_/gameId/401873139/patriots-
+ chiefs
+LOCATION:Arrowhead Stadium\, Kansas City\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873139/patriots-chiefs
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910175@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261224T003000Z
+DTEND:20261224T030000Z
+SUMMARY:🏀 Portland Trail Blazers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): BlazerVision\nh
+ ttps://www.espn.com/nba/game/_/gameId/401910175/trail-blazers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910175/trail-blazers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401909098@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261225T193000Z
+DTEND:20261225T220000Z
+SUMMARY:🏀 Miami Heat @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ABC\, ESPN\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909098/heat-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401909098/heat-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873151@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261227T180000Z
+DTEND:20261227T213000Z
+SUMMARY:🏈 New England Patriots @ New York Jets
+DESCRIPTION:NFL\nEstadio: MetLife Stadium (East Rutherford\, USA)\nTV (EE. 
+ UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/401873151/patriots-jets
+LOCATION:MetLife Stadium\, East Rutherford\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873151/patriots-jets
+CATEGORIES:NFL
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910208@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261229T010000Z
+DTEND:20261229T033000Z
+SUMMARY:🏀 Cleveland Cavaliers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBC\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401910208/cavaliers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910208/cavaliers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910222@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20261231T010000Z
+DTEND:20261231T033000Z
+SUMMARY:🏀 Boston Celtics @ Chicago Bulls
+DESCRIPTION:NBA\nEstadio: United Center (Chicago)\nhttps://www.espn.com/nba
+ /game/_/gameId/401910222/celtics-bulls
+LOCATION:United Center\, Chicago
+URL:https://www.espn.com/nba/game/_/gameId/401910222/celtics-bulls
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910240@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270102T023000Z
+DTEND:20270102T050000Z
+SUMMARY:🏀 Boston Celtics @ Utah Jazz
+DESCRIPTION:NBA\nEstadio: Delta Center (Salt Lake City)\nTV (EE. UU.): KJZZ
+ -TV\, Jazz+\nhttps://www.espn.com/nba/game/_/gameId/401910240/celtics-jazz
+LOCATION:Delta Center\, Salt Lake City
+URL:https://www.espn.com/nba/game/_/gameId/401910240/celtics-jazz
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910250@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270103T030000Z
+DTEND:20270103T053000Z
+SUMMARY:🏀 Boston Celtics @ Portland Trail Blazers
+DESCRIPTION:NBA\nEstadio: Moda Center (Portland)\nTV (EE. UU.): NBA TV\, KU
+ NP 16\, BlazerVision\nhttps://www.espn.com/nba/game/_/gameId/401910250/cel
+ tics-trail-blazers
+LOCATION:Moda Center\, Portland
+URL:https://www.espn.com/nba/game/_/gameId/401910250/celtics-trail-blazers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873157@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🏈 Denver Broncos @ New England Patriots
+DESCRIPTION:NFL · Flex Game: 1/2 or 1/3\nHora por confirmar\nEstadio: Gill
+ ette Stadium (Foxborough\, USA)\nhttps://www.espn.com/nfl/game/_/gameId/40
+ 1873157/broncos-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873157/broncos-patriots
+CATEGORIES:NFL
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882751@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:⚽ Racing Santander vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: El Sardineros (Santander\,
+  Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4
+ 01882751/athletic-club-racing-santander
+LOCATION:El Sardineros\, Santander\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882751/athletic-club-raci
+ ng-santander
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882749@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:⚽ Real Madrid vs Getafe
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882749/getafe-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882749/getafe-real-madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910262@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270105T020000Z
+DTEND:20270105T043000Z
+SUMMARY:🏀 Boston Celtics @ Phoenix Suns
+DESCRIPTION:NBA\nEstadio: Mortgage Matchup Center (Phoenix)\nTV (EE. UU.): 
+ Suns Live\, Arizona's Family 3TV\nhttps://www.espn.com/nba/game/_/gameId/4
+ 01910262/celtics-suns
+LOCATION:Mortgage Matchup Center\, Phoenix
+URL:https://www.espn.com/nba/game/_/gameId/401910262/celtics-suns
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910289@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270108T030000Z
+DTEND:20270108T053000Z
+SUMMARY:🏀 Boston Celtics @ Los Angeles Lakers
+DESCRIPTION:NBA\nEstadio: crypto.com Arena (Los Angeles)\nTV (EE. UU.): Pri
+ me Video\, Spectrum Sports Net\, Spectrum Sports Net +\nhttps://www.espn.c
+ om/nba/game/_/gameId/401910289/celtics-lakers
+LOCATION:crypto.com Arena\, Los Angeles
+URL:https://www.espn.com/nba/game/_/gameId/401910289/celtics-lakers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910304@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270110T033000Z
+DTEND:20270110T060000Z
+SUMMARY:🏀 Boston Celtics @ LA Clippers
+DESCRIPTION:NBA\nEstadio: Intuit Dome (Inglewood)\nTV (EE. UU.): ClipperVis
+ ion\nhttps://www.espn.com/nba/game/_/gameId/401910304/celtics-clippers
+LOCATION:Intuit Dome\, Inglewood
+URL:https://www.espn.com/nba/game/_/gameId/401910304/celtics-clippers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401873180@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🏈 Miami Dolphins @ New England Patriots
+DESCRIPTION:NFL · Flex Game: 1/9 or 1/10\nHora por confirmar\nEstadio: Gil
+ lette Stadium (Foxborough\, USA)\nhttps://www.espn.com/nfl/game/_/gameId/4
+ 01873180/dolphins-patriots
+LOCATION:Gillette Stadium\, Foxborough\, USA
+URL:https://www.espn.com/nfl/game/_/gameId/401873180/dolphins-patriots
+CATEGORIES:NFL
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882745@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:⚽ Athletic Club vs Villarreal
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 45/villarreal-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882745/villarreal-athleti
+ c-club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882739@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:⚽ Real Madrid vs Levante
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882739/levante-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882739/levante-real-madri
+ d
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910315@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270112T003000Z
+DTEND:20270112T030000Z
+SUMMARY:🏀 Houston Rockets @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910315/rockets-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910315/rockets-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910328@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270114T000000Z
+DTEND:20270114T023000Z
+SUMMARY:🏀 New York Knicks @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ESPN\nhttps://w
+ ww.espn.com/nba/game/_/gameId/401910328/knicks-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910328/knicks-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910352@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270117T000000Z
+DTEND:20270117T023000Z
+SUMMARY:🏀 Brooklyn Nets @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): DAZN (YES)\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401910352/nets-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910352/nets-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882732@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:⚽ Getafe vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio Coliseum (Getafe\,
+  Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4
+ 01882732/athletic-club-getafe
+LOCATION:Estadio Coliseum\, Getafe\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882732/athletic-club-geta
+ fe
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882730@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:⚽ Málaga vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: La Rosaleda (Malaga\, Spai
+ n)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882
+ 730/real-madrid-malaga
+LOCATION:La Rosaleda\, Malaga\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882730/real-madrid-malaga
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910365@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270118T200000Z
+DTEND:20270118T223000Z
+SUMMARY:🏀 Boston Celtics @ Washington Wizards
+DESCRIPTION:NBA\nEstadio: Capital One Arena (Washington)\nTV (EE. UU.): MNM
+ T\nhttps://www.espn.com/nba/game/_/gameId/401910365/celtics-wizards
+LOCATION:Capital One Arena\, Washington
+URL:https://www.espn.com/nba/game/_/gameId/401910365/celtics-wizards
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915280@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270119T200000Z
+DTEND:20270119T220000Z
+SUMMARY:⚽ Real Madrid vs LASK Linz
+DESCRIPTION:Champions League\nEstadio: Santiago Bernabéu (Madrid\, Spain)\
+ nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/4019
+ 15280/lask-linz-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401915280/lask-linz-real-mad
+ rid
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910377@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270121T003000Z
+DTEND:20270121T030000Z
+SUMMARY:🏀 Indiana Pacers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): DAZN IND\nhttps
+ ://www.espn.com/nba/game/_/gameId/401910377/pacers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910377/pacers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910385@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270122T003000Z
+DTEND:20270122T030000Z
+SUMMARY:🏀 Philadelphia 76ers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): Prime Video\nht
+ tps://www.espn.com/nba/game/_/gameId/401910385/76ers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910385/76ers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910402@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270124T000000Z
+DTEND:20270124T023000Z
+SUMMARY:🏀 Charlotte Hornets @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): DAZN CHA\nhttps
+ ://www.espn.com/nba/game/_/gameId/401910402/hornets-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910402/hornets-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882725@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:⚽ Athletic Club vs Levante
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 25/levante-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882725/levante-athletic-c
+ lub
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882719@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:⚽ Real Madrid vs Real Betis
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882719/real-betis-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882719/real-betis-real-ma
+ drid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910413@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270126T000000Z
+DTEND:20270126T023000Z
+SUMMARY:🏀 Toronto Raptors @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBCSN\nhttps://
+ www.espn.com/nba/game/_/gameId/401910413/raptors-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910413/raptors-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401915270@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270127T200000Z
+DTEND:20270127T220000Z
+SUMMARY:⚽ Shakhtar Donetsk vs Real Madrid
+DESCRIPTION:Champions League\nEstadio: Stamford Bridge (London\, England)\n
+ TV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/40191
+ 5270/real-madrid-shakhtar-donetsk
+LOCATION:Stamford Bridge\, London\, England
+URL:https://www.espn.com/soccer/match/_/gameId/401915270/real-madrid-shakht
+ ar-donetsk
+CATEGORIES:Champions League
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910430@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270128T003000Z
+DTEND:20270128T030000Z
+SUMMARY:🏀 LA Clippers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ClipperVision\n
+ https://www.espn.com/nba/game/_/gameId/401910430/clippers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910430/clippers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910446@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270130T003000Z
+DTEND:20270130T030000Z
+SUMMARY:🏀 Phoenix Suns @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): Suns Live\, Ari
+ zona's Family 3TV\nhttps://www.espn.com/nba/game/_/gameId/401910446/suns-c
+ eltics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910446/suns-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882708@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:⚽ Sevilla vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Ramón Sánchez Pizjuán S
+ tadium (Sevilla\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer
+ /match/_/gameId/401882708/athletic-club-sevilla
+LOCATION:Ramón Sánchez Pizjuán Stadium\, Sevilla\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882708/athletic-club-sevi
+ lla
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882709@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:⚽ Rayo Vallecano vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio de Vallecas (Madri
+ d\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameI
+ d/401882709/real-madrid-rayo-vallecano
+LOCATION:Estadio de Vallecas\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882709/real-madrid-rayo-v
+ allecano
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910461@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270131T230000Z
+DTEND:20270201T013000Z
+SUMMARY:🏀 Boston Celtics @ Toronto Raptors
+DESCRIPTION:NBA\nEstadio: Scotiabank Arena (Toronto)\nhttps://www.espn.com/
+ nba/game/_/gameId/401910461/celtics-raptors
+LOCATION:Scotiabank Arena\, Toronto
+URL:https://www.espn.com/nba/game/_/gameId/401910461/celtics-raptors
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910477@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270203T010000Z
+DTEND:20270203T033000Z
+SUMMARY:🏀 Los Angeles Lakers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBC\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401910477/lakers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910477/lakers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401892164@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270203T190000Z
+DTEND:20270203T210000Z
+SUMMARY:⚽ Real Sociedad vs Real Madrid
+DESCRIPTION:Supercopa de España\nEstadio: Vodafone Park (Istanbul\, Türki
+ ye)\nhttps://www.espn.com/soccer/match/_/gameId/401892164/real-madrid-real
+ -sociedad
+LOCATION:Vodafone Park\, Istanbul\, Türkiye
+URL:https://www.espn.com/soccer/match/_/gameId/401892164/real-madrid-real-s
+ ociedad
+CATEGORIES:Supercopa de España
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910490@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270205T003000Z
+DTEND:20270205T030000Z
+SUMMARY:🏀 Boston Celtics @ Charlotte Hornets
+DESCRIPTION:NBA\nEstadio: Spectrum Center (Charlotte)\nTV (EE. UU.): Prime 
+ Video\nhttps://www.espn.com/nba/game/_/gameId/401910490/celtics-hornets
+LOCATION:Spectrum Center\, Charlotte
+URL:https://www.espn.com/nba/game/_/gameId/401910490/celtics-hornets
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910498@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270206T000000Z
+DTEND:20270206T023000Z
+SUMMARY:🏀 Boston Celtics @ Atlanta Hawks
+DESCRIPTION:NBA\nEstadio: State Farm Arena (Atlanta)\nhttps://www.espn.com/
+ nba/game/_/gameId/401910498/celtics-hawks
+LOCATION:State Farm Arena\, Atlanta
+URL:https://www.espn.com/nba/game/_/gameId/401910498/celtics-hawks
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882705@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:⚽ Athletic Club vs Osasuna
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
+ 05/osasuna-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882705/osasuna-athletic-c
+ lub
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882698@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:⚽ Real Sociedad vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Reale Arena (San Sebastian
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882698/real-madrid-real-sociedad
+LOCATION:Reale Arena\, San Sebastian\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882698/real-madrid-real-s
+ ociedad
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910518@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270208T000000Z
+DTEND:20270208T023000Z
+SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers
+DESCRIPTION:NBA\nEstadio: Xfinity Mobile Arena (Philadelphia)\nTV (EE. UU.)
+ : NBC\nhttps://www.espn.com/nba/game/_/gameId/401910518/celtics-76ers
+LOCATION:Xfinity Mobile Arena\, Philadelphia
+URL:https://www.espn.com/nba/game/_/gameId/401910518/celtics-76ers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910529@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270210T003000Z
+DTEND:20270210T030000Z
+SUMMARY:🏀 Denver Nuggets @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910529/nuggets-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910529/nuggets-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910541@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270211T003000Z
+DTEND:20270211T030000Z
+SUMMARY:🏀 Golden State Warriors @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ESPN\nhttps://w
+ ww.espn.com/nba/game/_/gameId/401910541/warriors-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910541/warriors-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910556@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270213T010000Z
+DTEND:20270213T033000Z
+SUMMARY:🏀 Minnesota Timberwolves @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): Prime Video\nht
+ tps://www.espn.com/nba/game/_/gameId/401910556/timberwolves-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910556/timberwolves-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910568@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270214T180000Z
+DTEND:20270214T203000Z
+SUMMARY:🏀 Toronto Raptors @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910568/raptors-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910568/raptors-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882691@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:⚽ Real Madrid vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882691/athletic-club-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882691/athletic-club-real
+ -madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910592@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270218T023000Z
+DTEND:20270218T050000Z
+SUMMARY:🏀 Boston Celtics @ Oklahoma City Thunder
+DESCRIPTION:NBA\nEstadio: Paycom Center (Oklahoma City)\nTV (EE. UU.): ESPN
+ \, KSBI\, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910592/ce
+ ltics-thunder
+LOCATION:Paycom Center\, Oklahoma City
+URL:https://www.espn.com/nba/game/_/gameId/401910592/celtics-thunder
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910597@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270219T010000Z
+DTEND:20270219T033000Z
+SUMMARY:🏀 Boston Celtics @ Memphis Grizzlies
+DESCRIPTION:NBA\nEstadio: FedExForum (Memphis)\nTV (EE. UU.): DAZN MEM\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401910597/celtics-grizzlies
+LOCATION:FedExForum\, Memphis
+URL:https://www.espn.com/nba/game/_/gameId/401910597/celtics-grizzlies
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882685@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:⚽ Athletic Club vs Celta Vigo
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018826
+ 85/celta-vigo-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882685/celta-vigo-athleti
+ c-club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882678@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:⚽ Sevilla vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Ramón Sánchez Pizjuán S
+ tadium (Sevilla\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer
+ /match/_/gameId/401882678/real-madrid-sevilla
+LOCATION:Ramón Sánchez Pizjuán Stadium\, Sevilla\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882678/real-madrid-sevill
+ a
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910610@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270227T003000Z
+DTEND:20270227T030000Z
+SUMMARY:🏀 Cleveland Cavaliers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ESPN\, DAZN CLE
+ \nhttps://www.espn.com/nba/game/_/gameId/401910610/cavaliers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910610/cavaliers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882676@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:⚽ Athletic Club vs Barcelona
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018826
+ 76/barcelona-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882676/barcelona-athletic
+ -club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882668@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:⚽ Real Madrid vs Valencia
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882668/valencia-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882668/valencia-real-madr
+ id
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910628@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270301T000000Z
+DTEND:20270301T023000Z
+SUMMARY:🏀 Boston Celtics @ Minnesota Timberwolves
+DESCRIPTION:NBA\nEstadio: Target Center (Minneapolis)\nTV (EE. UU.): NBC\nh
+ ttps://www.espn.com/nba/game/_/gameId/401910628/celtics-timberwolves
+LOCATION:Target Center\, Minneapolis
+URL:https://www.espn.com/nba/game/_/gameId/401910628/celtics-timberwolves
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910638@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270303T000000Z
+DTEND:20270303T023000Z
+SUMMARY:🏀 Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA\nEstadio: Gainbridge Fieldhouse (Indianapolis)\nTV (EE. UU.
+ ): DAZN IND\nhttps://www.espn.com/nba/game/_/gameId/401910638/celtics-pace
+ rs
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+URL:https://www.espn.com/nba/game/_/gameId/401910638/celtics-pacers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910662@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270306T000000Z
+DTEND:20270306T023000Z
+SUMMARY:🏀 Boston Celtics @ Detroit Pistons
+DESCRIPTION:NBA\nEstadio: Little Caesars Arena (Detroit)\nTV (EE. UU.): ESP
+ N\nhttps://www.espn.com/nba/game/_/gameId/401910662/celtics-pistons
+LOCATION:Little Caesars Arena\, Detroit
+URL:https://www.espn.com/nba/game/_/gameId/401910662/celtics-pistons
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910675@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270307T180000Z
+DTEND:20270307T203000Z
+SUMMARY:🏀 Philadelphia 76ers @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ABC\nhttps://ww
+ w.espn.com/nba/game/_/gameId/401910675/76ers-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910675/76ers-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882666@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:⚽ Alavés vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Mendizorrotza (Vitoria-Gas
+ teiz\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/ga
+ meId/401882666/athletic-club-alaves
+LOCATION:Mendizorrotza\, Vitoria-Gasteiz\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882666/athletic-club-alav
+ es
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882657@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:⚽ Villarreal vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio de la Cerámica (V
+ illarreal\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match
+ /_/gameId/401882657/real-madrid-villarreal
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882657/real-madrid-villar
+ real
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910692@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270310T010000Z
+DTEND:20270310T033000Z
+SUMMARY:🏀 Boston Celtics @ Chicago Bulls
+DESCRIPTION:NBA\nEstadio: United Center (Chicago)\nhttps://www.espn.com/nba
+ /game/_/gameId/401910692/celtics-bulls
+LOCATION:United Center\, Chicago
+URL:https://www.espn.com/nba/game/_/gameId/401910692/celtics-bulls
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910706@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270312T003000Z
+DTEND:20270312T030000Z
+SUMMARY:🏀 Memphis Grizzlies @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): DAZN MEM\nhttps
+ ://www.espn.com/nba/game/_/gameId/401910706/grizzlies-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910706/grizzlies-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910713@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270313T003000Z
+DTEND:20270313T030000Z
+SUMMARY:🏀 Oklahoma City Thunder @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): Prime Video\, K
+ SBI\, Thunder App\nhttps://www.espn.com/nba/game/_/gameId/401910713/thunde
+ r-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910713/thunder-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910727@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270314T160000Z
+DTEND:20270314T183000Z
+SUMMARY:🏀 Boston Celtics @ New York Knicks
+DESCRIPTION:NBA\nEstadio: Madison Square Garden (New York)\nTV (EE. UU.): A
+ BC\nhttps://www.espn.com/nba/game/_/gameId/401910727/celtics-knicks
+LOCATION:Madison Square Garden\, New York
+URL:https://www.espn.com/nba/game/_/gameId/401910727/celtics-knicks
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882655@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:⚽ Athletic Club vs Valencia
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018826
+ 55/valencia-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882655/valencia-athletic-
+ club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882647@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:⚽ Real Madrid vs Espanyol
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882647/espanyol-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882647/espanyol-real-madr
+ id
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910740@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270316T233000Z
+DTEND:20270317T020000Z
+SUMMARY:🏀 Sacramento Kings @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910740/kings-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910740/kings-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910759@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270318T233000Z
+DTEND:20270319T020000Z
+SUMMARY:🏀 Orlando Magic @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910759/magic-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910759/magic-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882644@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⚽ Espanyol vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: RCDE Stadium (Barcelona\, 
+ Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/40
+ 1882644/athletic-club-espanyol
+LOCATION:RCDE Stadium\, Barcelona\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882644/athletic-club-espa
+ nyol
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882645@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:⚽ Celta Vigo vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Balaidos (Vigo\, Spain)\nT
+ V (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882645/r
+ eal-madrid-celta-vigo
+LOCATION:Balaidos\, Vigo\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882645/real-madrid-celta-
+ vigo
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910779@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270321T190000Z
+DTEND:20270321T213000Z
+SUMMARY:🏀 New Orleans Pelicans @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): GCSEN\, Pelican
+ s.com\nhttps://www.espn.com/nba/game/_/gameId/401910779/pelicans-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910779/pelicans-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910794@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270323T233000Z
+DTEND:20270324T020000Z
+SUMMARY:🏀 Boston Celtics @ Brooklyn Nets
+DESCRIPTION:NBA\nEstadio: Barclays Center (Brooklyn)\nTV (EE. UU.): DAZN (Y
+ ES)\nhttps://www.espn.com/nba/game/_/gameId/401910794/celtics-nets
+LOCATION:Barclays Center\, Brooklyn
+URL:https://www.espn.com/nba/game/_/gameId/401910794/celtics-nets
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910803@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270324T233000Z
+DTEND:20270325T020000Z
+SUMMARY:🏀 San Antonio Spurs @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): ESPN\nhttps://w
+ ww.espn.com/nba/game/_/gameId/401910803/spurs-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910803/spurs-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893770@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:⚾ Boston Red Sox @ Seattle Mariners
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: T-Mobile Park (Seattle)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893770/red-sox
+ -mariners
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.espn.com/mlb/game/_/gameId/401893770/red-sox-mariners
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893783@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:⚾ Boston Red Sox @ Seattle Mariners
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: T-Mobile Park (Seattle)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893783/red-sox
+ -mariners
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.espn.com/mlb/game/_/gameId/401893783/red-sox-mariners
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893790@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:⚾ Boston Red Sox @ Seattle Mariners
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: T-Mobile Park (Seattle)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893790/red-sox
+ -mariners
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.espn.com/mlb/game/_/gameId/401893790/red-sox-mariners
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910827@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270328T000000Z
+DTEND:20270328T023000Z
+SUMMARY:🏀 Boston Celtics @ Miami Heat
+DESCRIPTION:NBA\nEstadio: Kaseya Center (Miami)\nTV (EE. UU.): NBA TV\nhttp
+ s://www.espn.com/nba/game/_/gameId/401910827/celtics-heat
+LOCATION:Kaseya Center\, Miami
+URL:https://www.espn.com/nba/game/_/gameId/401910827/celtics-heat
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893803@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:⚾ Boston Red Sox @ Seattle Mariners
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: T-Mobile Park (Seattle)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893803/red-sox
+ -mariners
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.espn.com/mlb/game/_/gameId/401893803/red-sox-mariners
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910836@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270328T230000Z
+DTEND:20270329T013000Z
+SUMMARY:🏀 Boston Celtics @ New Orleans Pelicans
+DESCRIPTION:NBA\nEstadio: Smoothie King Center (New Orleans)\nTV (EE. UU.):
+  GCSEN\, Pelicans.com\nhttps://www.espn.com/nba/game/_/gameId/401910836/ce
+ ltics-pelicans
+LOCATION:Smoothie King Center\, New Orleans
+URL:https://www.espn.com/nba/game/_/gameId/401910836/celtics-pelicans
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893816@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:⚾ Boston Red Sox @ Houston Astros
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Daikin Park (Houston)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893816/red-sox-a
+ stros
+LOCATION:Daikin Park\, Houston
+URL:https://www.espn.com/mlb/game/_/gameId/401893816/red-sox-astros
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893831@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270330
+SUMMARY:⚾ Boston Red Sox @ Houston Astros
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Daikin Park (Houston)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893831/red-sox-a
+ stros
+LOCATION:Daikin Park\, Houston
+URL:https://www.espn.com/mlb/game/_/gameId/401893831/red-sox-astros
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910849@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270331T000000Z
+DTEND:20270331T023000Z
+SUMMARY:🏀 Boston Celtics @ Indiana Pacers
+DESCRIPTION:NBA\nEstadio: Gainbridge Fieldhouse (Indianapolis)\nTV (EE. UU.
+ ): DAZN IND\nhttps://www.espn.com/nba/game/_/gameId/401910849/celtics-pace
+ rs
+LOCATION:Gainbridge Fieldhouse\, Indianapolis
+URL:https://www.espn.com/nba/game/_/gameId/401910849/celtics-pacers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893845@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:⚾ Boston Red Sox @ Houston Astros
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Daikin Park (Houston)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893845/red-sox-a
+ stros
+LOCATION:Daikin Park\, Houston
+URL:https://www.espn.com/mlb/game/_/gameId/401893845/red-sox-astros
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893857@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:⚾ Cincinnati Reds @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893857/reds-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401893857/reds-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910864@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270401T230000Z
+DTEND:20270402T013000Z
+SUMMARY:🏀 Boston Celtics @ Cleveland Cavaliers
+DESCRIPTION:NBA\nEstadio: Rocket Arena (Cleveland)\nTV (EE. UU.): Prime Vid
+ eo\nhttps://www.espn.com/nba/game/_/gameId/401910864/celtics-cavaliers
+LOCATION:Rocket Arena\, Cleveland
+URL:https://www.espn.com/nba/game/_/gameId/401910864/celtics-cavaliers
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910869@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270402T233000Z
+DTEND:20270403T020000Z
+SUMMARY:🏀 Miami Heat @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nhttps://www.espn.com/nba/game
+ /_/gameId/401910869/heat-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910869/heat-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893878@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:⚾ Cincinnati Reds @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893878/reds-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401893878/reds-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893893@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:⚾ Cincinnati Reds @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893893/reds-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401893893/reds-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882636@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚽ Athletic Club vs Racing Santander
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018826
+ 36/racing-santander-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882636/racing-santander-a
+ thletic-club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882628@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚽ Real Madrid vs Atlético Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882628/atletico-madrid-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882628/atletico-madrid-re
+ al-madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910893@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270404T233000Z
+DTEND:20270405T020000Z
+SUMMARY:🏀 Boston Celtics @ New York Knicks
+DESCRIPTION:NBA\nEstadio: Madison Square Garden (New York)\nTV (EE. UU.): N
+ BC\nhttps://www.espn.com/nba/game/_/gameId/401910893/celtics-knicks
+LOCATION:Madison Square Garden\, New York
+URL:https://www.espn.com/nba/game/_/gameId/401910893/celtics-knicks
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893909@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:⚾ Houston Astros @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893909/astros-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401893909/astros-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893923@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:⚾ Houston Astros @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893923/astros-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401893923/astros-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893938@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:⚾ Houston Astros @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893938/astros-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401893938/astros-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910910@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270407T230000Z
+DTEND:20270408T013000Z
+SUMMARY:🏀 Boston Celtics @ Orlando Magic
+DESCRIPTION:NBA\nEstadio: Kia Center (Orlando)\nhttps://www.espn.com/nba/ga
+ me/_/gameId/401910910/celtics-magic
+LOCATION:Kia Center\, Orlando
+URL:https://www.espn.com/nba/game/_/gameId/401910910/celtics-magic
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893957@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:⚾ Boston Red Sox @ Washington Nationals
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Nationals Park (Washington)\n
+ TV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893957/red
+ -sox-nationals
+LOCATION:Nationals Park\, Washington
+URL:https://www.espn.com/mlb/game/_/gameId/401893957/red-sox-nationals
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910923@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270409T230000Z
+DTEND:20270410T013000Z
+SUMMARY:🏀 Boston Celtics @ Atlanta Hawks
+DESCRIPTION:NBA\nEstadio: State Farm Arena (Atlanta)\nhttps://www.espn.com/
+ nba/game/_/gameId/401910923/celtics-hawks
+LOCATION:State Farm Arena\, Atlanta
+URL:https://www.espn.com/nba/game/_/gameId/401910923/celtics-hawks
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893972@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:⚾ Boston Red Sox @ Washington Nationals
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Nationals Park (Washington)\n
+ TV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893972/red
+ -sox-nationals
+LOCATION:Nationals Park\, Washington
+URL:https://www.espn.com/mlb/game/_/gameId/401893972/red-sox-nationals
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401893987@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:⚾ Boston Red Sox @ Washington Nationals
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Nationals Park (Washington)\n
+ TV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893987/red
+ -sox-nationals
+LOCATION:Nationals Park\, Washington
+URL:https://www.espn.com/mlb/game/_/gameId/401893987/red-sox-nationals
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882617@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⚽ Villarreal vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio de la Cerámica (V
+ illarreal\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match
+ /_/gameId/401882617/athletic-club-villarreal
+LOCATION:Estadio de la Cerámica\, Villarreal\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882617/athletic-club-vill
+ arreal
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882622@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⚽ Osasuna vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: El Sadar (Pamplona\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018826
+ 22/real-madrid-osasuna
+LOCATION:El Sadar\, Pamplona\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882622/real-madrid-osasun
+ a
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401910937@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART:20270411T220000Z
+DTEND:20270412T003000Z
+SUMMARY:🏀 Milwaukee Bucks @ Boston Celtics
+DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): MyMi\, Bucks Ap
+ p\nhttps://www.espn.com/nba/game/_/gameId/401910937/bucks-celtics
+LOCATION:TD Garden\, Boston
+URL:https://www.espn.com/nba/game/_/gameId/401910937/bucks-celtics
+CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894000@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189400
+ 0/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401894000/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894008@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270413
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189400
+ 8/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401894008/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894023@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189402
+ 3/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401894023/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894038@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189403
+ 8/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401894038/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894052@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:⚾ Cleveland Guardians @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894052/guardians-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894052/guardians-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894067@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:⚾ Cleveland Guardians @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894067/guardians-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894067/guardians-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894082@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:⚾ Cleveland Guardians @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894082/guardians-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894082/guardians-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882614@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚽ Real Betis vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio La Cartuja (Sevill
+ a\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameI
+ d/401882614/athletic-club-real-betis
+LOCATION:Estadio La Cartuja\, Sevilla\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882614/athletic-club-real
+ -betis
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882610@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚽ Getafe vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio Coliseum (Getafe\,
+  Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4
+ 01882610/real-madrid-getafe
+LOCATION:Estadio Coliseum\, Getafe\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882610/real-madrid-getafe
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894095@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:⚾ Cleveland Guardians @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894095/guardians-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894095/guardians-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894115@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270419
+DTEND;VALUE=DATE:20270420
+SUMMARY:⚾ Tampa Bay Rays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894115/rays-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894115/rays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894130@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:⚾ Tampa Bay Rays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894130/rays-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894130/rays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882606@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⚽ Athletic Club vs Deportivo
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018826
+ 06/deportivo-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882606/deportivo-athletic
+ -club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882600@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⚽ Real Madrid vs Elche
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882600/elche-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882600/elche-real-madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894139@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:⚾ Tampa Bay Rays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894139/rays-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894139/rays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894143@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:⚾ Boston Red Sox @ Detroit Tigers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Comerica Park (Detroit)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894143/red-sox
+ -tigers
+LOCATION:Comerica Park\, Detroit
+URL:https://www.espn.com/mlb/game/_/gameId/401894143/red-sox-tigers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894158@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:⚾ Boston Red Sox @ Detroit Tigers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Comerica Park (Detroit)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894158/red-sox
+ -tigers
+LOCATION:Comerica Park\, Detroit
+URL:https://www.espn.com/mlb/game/_/gameId/401894158/red-sox-tigers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894173@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:⚾ Boston Red Sox @ Detroit Tigers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Comerica Park (Detroit)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894173/red-sox
+ -tigers
+LOCATION:Comerica Park\, Detroit
+URL:https://www.espn.com/mlb/game/_/gameId/401894173/red-sox-tigers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894201@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270426
+DTEND;VALUE=DATE:20270427
+SUMMARY:⚾ Boston Red Sox @ Baltimore Orioles
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oriole Park at Camden Yards (
+ Baltimore)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4
+ 01894201/red-sox-orioles
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+URL:https://www.espn.com/mlb/game/_/gameId/401894201/red-sox-orioles
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894216@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:⚾ Boston Red Sox @ Baltimore Orioles
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oriole Park at Camden Yards (
+ Baltimore)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4
+ 01894216/red-sox-orioles
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+URL:https://www.espn.com/mlb/game/_/gameId/401894216/red-sox-orioles
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894245@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:⚾ St. Louis Cardinals @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894245/cardinals-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894245/cardinals-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894260@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:⚾ St. Louis Cardinals @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894260/cardinals-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894260/cardinals-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894275@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:⚾ St. Louis Cardinals @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894275/cardinals-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894275/cardinals-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882587@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚽ Real Sociedad vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Reale Arena (San Sebastian
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882587/athletic-club-real-sociedad
+LOCATION:Reale Arena\, San Sebastian\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882587/athletic-club-real
+ -sociedad
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882590@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚽ Levante vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadi Ciutat de València
+  (Manises\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match
+ /_/gameId/401882590/real-madrid-levante
+LOCATION:Estadi Ciutat de València\, Manises\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882590/real-madrid-levant
+ e
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894289@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:⚾ Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894289/blue-jays-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894289/blue-jays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894304@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270503
+DTEND;VALUE=DATE:20270504
+SUMMARY:⚾ Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894304/blue-jays-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894304/blue-jays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894319@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:⚾ Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894319/blue-jays-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894319/blue-jays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894333@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:⚾ Boston Red Sox @ Cleveland Guardians
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Progressive Field (Cleveland)
+ \nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894333/r
+ ed-sox-guardians
+LOCATION:Progressive Field\, Cleveland
+URL:https://www.espn.com/mlb/game/_/gameId/401894333/red-sox-guardians
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894348@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:⚾ Boston Red Sox @ Cleveland Guardians
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Progressive Field (Cleveland)
+ \nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894348/r
+ ed-sox-guardians
+LOCATION:Progressive Field\, Cleveland
+URL:https://www.espn.com/mlb/game/_/gameId/401894348/red-sox-guardians
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894363@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:⚾ Boston Red Sox @ Cleveland Guardians
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Progressive Field (Cleveland)
+ \nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894363/r
+ ed-sox-guardians
+LOCATION:Progressive Field\, Cleveland
+URL:https://www.espn.com/mlb/game/_/gameId/401894363/red-sox-guardians
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882585@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:⚽ Athletic Club vs Málaga
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018825
+ 85/malaga-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882585/malaga-athletic-cl
+ ub
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882579@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:⚽ Real Madrid vs Barcelona
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882579/barcelona-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882579/barcelona-real-mad
+ rid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894376@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894376/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401894376/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894384@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270510
+DTEND;VALUE=DATE:20270511
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894384/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401894384/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894399@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894399/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401894399/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894414@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894414/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401894414/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894431@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:⚾ Los Angeles Dodgers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894431/dodgers-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894431/dodgers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894446@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:⚾ Los Angeles Dodgers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894446/dodgers-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894446/dodgers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894461@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:⚾ Los Angeles Dodgers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894461/dodgers-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894461/dodgers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882574@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⚽ Elche vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Estadio Martínez Valero (
+ Elche\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/g
+ ameId/401882574/athletic-club-elche
+LOCATION:Estadio Martínez Valero\, Elche\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882574/athletic-club-elch
+ e
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882569@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:⚽ Real Madrid vs Racing Santander
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882569/racing-santander-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882569/racing-santander-r
+ eal-madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894479@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270517
+DTEND;VALUE=DATE:20270518
+SUMMARY:⚾ Boston Red Sox @ Atlanta Braves
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Truist Park (Atlanta)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894479/red-sox-b
+ raves
+LOCATION:Truist Park\, Atlanta
+URL:https://www.espn.com/mlb/game/_/gameId/401894479/red-sox-braves
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894494@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:⚾ Boston Red Sox @ Atlanta Braves
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Truist Park (Atlanta)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894494/red-sox-b
+ raves
+LOCATION:Truist Park\, Atlanta
+URL:https://www.espn.com/mlb/game/_/gameId/401894494/red-sox-braves
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894509@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:⚾ Boston Red Sox @ Atlanta Braves
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Truist Park (Atlanta)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894509/red-sox-b
+ raves
+LOCATION:Truist Park\, Atlanta
+URL:https://www.espn.com/mlb/game/_/gameId/401894509/red-sox-braves
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894529@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:⚾ Texas Rangers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894529/rangers-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894529/rangers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894544@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:⚾ Texas Rangers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894544/rangers-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894544/rangers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894559@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:⚾ Texas Rangers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894559/rangers-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894559/rangers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882565@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚽ Atlético Madrid vs Athletic Club
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Riyadh Air Metropolitano (
+ Madrid\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/
+ gameId/401882565/athletic-club-atletico-madrid
+LOCATION:Riyadh Air Metropolitano\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882565/athletic-club-atle
+ tico-madrid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882566@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚽ Alavés vs Real Madrid
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Mendizorrotza (Vitoria-Gas
+ teiz\, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/ga
+ meId/401882566/real-madrid-alaves
+LOCATION:Mendizorrotza\, Vitoria-Gasteiz\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882566/real-madrid-alaves
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894566@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:⚾ Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894566/white-sox-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894566/white-sox-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894576@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270524
+DTEND;VALUE=DATE:20270525
+SUMMARY:⚾ Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894576/white-sox-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894576/white-sox-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894591@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:⚾ Chicago White Sox @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894591/white-sox-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894591/white-sox-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894611@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:⚾ Boston Red Sox @ San Diego Padres
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Petco Park (San Diego)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894611/red-sox-
+ padres
+LOCATION:Petco Park\, San Diego
+URL:https://www.espn.com/mlb/game/_/gameId/401894611/red-sox-padres
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894626@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:⚾ Boston Red Sox @ San Diego Padres
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Petco Park (San Diego)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894626/red-sox-
+ padres
+LOCATION:Petco Park\, San Diego
+URL:https://www.espn.com/mlb/game/_/gameId/401894626/red-sox-padres
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894641@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:⚾ Boston Red Sox @ San Diego Padres
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Petco Park (San Diego)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894641/red-sox-
+ padres
+LOCATION:Petco Park\, San Diego
+URL:https://www.espn.com/mlb/game/_/gameId/401894641/red-sox-padres
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882556@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:⚽ Athletic Club vs Rayo Vallecano
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
+ )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018825
+ 56/rayo-vallecano-athletic-club
+LOCATION:San Mamés\, Bilbao\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882556/rayo-vallecano-ath
+ letic-club
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882548@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:⚽ Real Madrid vs Deportivo
+DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
+ \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
+ /401882548/deportivo-real-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882548/deportivo-real-mad
+ rid
+CATEGORIES:LaLiga
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894654@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:⚾ Boston Red Sox @ Los Angeles Angels
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Angel Stadium (Anaheim)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894654/red-sox
+ -angels
+LOCATION:Angel Stadium\, Anaheim
+URL:https://www.espn.com/mlb/game/_/gameId/401894654/red-sox-angels
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894669@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:⚾ Boston Red Sox @ Los Angeles Angels
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Angel Stadium (Anaheim)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894669/red-sox
+ -angels
+LOCATION:Angel Stadium\, Anaheim
+URL:https://www.espn.com/mlb/game/_/gameId/401894669/red-sox-angels
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894684@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:⚾ Boston Red Sox @ Los Angeles Angels
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Angel Stadium (Anaheim)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894684/red-sox
+ -angels
+LOCATION:Angel Stadium\, Anaheim
+URL:https://www.espn.com/mlb/game/_/gameId/401894684/red-sox-angels
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894712@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894712/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894712/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894727@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894727/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894727/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894741@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894741/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894741/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894752@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894752/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894752/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894765@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:⚾ Miami Marlins @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894765/marlins-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894765/marlins-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894780@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:⚾ Miami Marlins @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894780/marlins-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894780/marlins-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894793@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:⚾ Miami Marlins @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894793/marlins-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894793/marlins-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894798@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:⚾ Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Yankee Stadium (Bronx)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894798/red-sox-
+ yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401894798/red-sox-yankees
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894813@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:⚾ Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Yankee Stadium (Bronx)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894813/red-sox-
+ yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401894813/red-sox-yankees
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894828@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:⚾ Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Yankee Stadium (Bronx)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894828/red-sox-
+ yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401894828/red-sox-yankees
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894852@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:⚾ Athletics @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894852/athletics-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894852/athletics-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894867@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:⚾ Athletics @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894867/athletics-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894867/athletics-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894883@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:⚾ Athletics @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894883/athletics-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894883/athletics-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894891@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:⚾ Boston Red Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Chase Field (Phoenix)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894891/red-sox-d
+ iamondbacks
+LOCATION:Chase Field\, Phoenix
+URL:https://www.espn.com/mlb/game/_/gameId/401894891/red-sox-diamondbacks
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894906@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:⚾ Boston Red Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Chase Field (Phoenix)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894906/red-sox-d
+ iamondbacks
+LOCATION:Chase Field\, Phoenix
+URL:https://www.espn.com/mlb/game/_/gameId/401894906/red-sox-diamondbacks
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894921@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:⚾ Boston Red Sox @ Arizona Diamondbacks
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Chase Field (Phoenix)\nTV (EE
+ . UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894921/red-sox-d
+ iamondbacks
+LOCATION:Chase Field\, Phoenix
+URL:https://www.espn.com/mlb/game/_/gameId/401894921/red-sox-diamondbacks
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894935@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:⚾ Boston Red Sox @ Athletics
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Sutter Health Park (Sacrament
+ o)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894935
+ /red-sox-athletics
+LOCATION:Sutter Health Park\, Sacramento
+URL:https://www.espn.com/mlb/game/_/gameId/401894935/red-sox-athletics
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894947@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:⚾ Boston Red Sox @ Athletics
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Sutter Health Park (Sacrament
+ o)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894947
+ /red-sox-athletics
+LOCATION:Sutter Health Park\, Sacramento
+URL:https://www.espn.com/mlb/game/_/gameId/401894947/red-sox-athletics
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894963@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:⚾ Boston Red Sox @ Athletics
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Sutter Health Park (Sacrament
+ o)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894963
+ /red-sox-athletics
+LOCATION:Sutter Health Park\, Sacramento
+URL:https://www.espn.com/mlb/game/_/gameId/401894963/red-sox-athletics
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401894986@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:⚾ Colorado Rockies @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401894986/rockies-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401894986/rockies-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895001@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:⚾ Colorado Rockies @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895001/rockies-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895001/rockies-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895016@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:⚾ Colorado Rockies @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895016/rockies-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895016/rockies-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895043@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:⚾ Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895043/twins-red-
+ sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895043/twins-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895058@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:⚾ Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895058/twins-red-
+ sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895058/twins-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895072@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:⚾ Minnesota Twins @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895072/twins-red-
+ sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895072/twins-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895080@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895080/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895080/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895095@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895095/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895095/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895110@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895110/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895110/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895130@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189513
+ 0/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401895130/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895145@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189514
+ 5/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401895145/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895160@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:⚾ Boston Red Sox @ Tampa Bay Rays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Tropicana Field (St. Petersbu
+ rg)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/40189516
+ 0/red-sox-rays
+LOCATION:Tropicana Field\, St. Petersburg
+URL:https://www.espn.com/mlb/game/_/gameId/401895160/red-sox-rays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895174@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:⚾ Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Target Field (Minneapolis)\nT
+ V (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895174/red-
+ sox-twins
+LOCATION:Target Field\, Minneapolis
+URL:https://www.espn.com/mlb/game/_/gameId/401895174/red-sox-twins
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895189@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:⚾ Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Target Field (Minneapolis)\nT
+ V (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895189/red-
+ sox-twins
+LOCATION:Target Field\, Minneapolis
+URL:https://www.espn.com/mlb/game/_/gameId/401895189/red-sox-twins
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895205@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:⚾ Boston Red Sox @ Minnesota Twins
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Target Field (Minneapolis)\nT
+ V (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895205/red-
+ sox-twins
+LOCATION:Target Field\, Minneapolis
+URL:https://www.espn.com/mlb/game/_/gameId/401895205/red-sox-twins
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895220@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:⚾ Atlanta Braves @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895220/braves-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895220/braves-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895235@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:⚾ Atlanta Braves @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895235/braves-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895235/braves-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895250@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:⚾ Atlanta Braves @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895250/braves-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895250/braves-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895271@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:⚾ New York Mets @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895271/mets-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895271/mets-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895286@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270720
+SUMMARY:⚾ New York Mets @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895286/mets-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895286/mets-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895301@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:⚾ New York Mets @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895301/mets-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895301/mets-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895310@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:⚾ Boston Red Sox @ Baltimore Orioles
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oriole Park at Camden Yards (
+ Baltimore)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4
+ 01895310/red-sox-orioles
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+URL:https://www.espn.com/mlb/game/_/gameId/401895310/red-sox-orioles
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895318@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:⚾ Boston Red Sox @ Baltimore Orioles
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oriole Park at Camden Yards (
+ Baltimore)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4
+ 01895318/red-sox-orioles
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+URL:https://www.espn.com/mlb/game/_/gameId/401895318/red-sox-orioles
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895333@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:⚾ Boston Red Sox @ Baltimore Orioles
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oriole Park at Camden Yards (
+ Baltimore)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4
+ 01895333/red-sox-orioles
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+URL:https://www.espn.com/mlb/game/_/gameId/401895333/red-sox-orioles
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895348@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:⚾ Boston Red Sox @ Baltimore Orioles
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oriole Park at Camden Yards (
+ Baltimore)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4
+ 01895348/red-sox-orioles
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+URL:https://www.espn.com/mlb/game/_/gameId/401895348/red-sox-orioles
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895374@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+SUMMARY:⚾ Boston Red Sox @ Philadelphia Phillies
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Citizens Bank Park (Philadelp
+ hia)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4018953
+ 74/red-sox-phillies
+LOCATION:Citizens Bank Park\, Philadelphia
+URL:https://www.espn.com/mlb/game/_/gameId/401895374/red-sox-phillies
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895389@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:⚾ Boston Red Sox @ Philadelphia Phillies
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Citizens Bank Park (Philadelp
+ hia)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4018953
+ 89/red-sox-phillies
+LOCATION:Citizens Bank Park\, Philadelphia
+URL:https://www.espn.com/mlb/game/_/gameId/401895389/red-sox-phillies
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895404@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:⚾ Boston Red Sox @ Philadelphia Phillies
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Citizens Bank Park (Philadelp
+ hia)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4018954
+ 04/red-sox-phillies
+LOCATION:Citizens Bank Park\, Philadelphia
+URL:https://www.espn.com/mlb/game/_/gameId/401895404/red-sox-phillies
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895415@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:⚾ Boston Red Sox @ Chicago Cubs
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Wrigley Field (Chicago)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895415/red-sox
+ -cubs
+LOCATION:Wrigley Field\, Chicago
+URL:https://www.espn.com/mlb/game/_/gameId/401895415/red-sox-cubs
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895430@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:⚾ Boston Red Sox @ Chicago Cubs
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Wrigley Field (Chicago)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895430/red-sox
+ -cubs
+LOCATION:Wrigley Field\, Chicago
+URL:https://www.espn.com/mlb/game/_/gameId/401895430/red-sox-cubs
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895445@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:⚾ Boston Red Sox @ Chicago Cubs
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Wrigley Field (Chicago)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895445/red-sox
+ -cubs
+LOCATION:Wrigley Field\, Chicago
+URL:https://www.espn.com/mlb/game/_/gameId/401895445/red-sox-cubs
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895457@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:⚾ Los Angeles Angels @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895457/angels-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895457/angels-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895464@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270802
+DTEND;VALUE=DATE:20270803
+SUMMARY:⚾ Los Angeles Angels @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895464/angels-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895464/angels-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895479@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:⚾ Los Angeles Angels @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895479/angels-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895479/angels-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895514@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895514/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895514/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895529@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895529/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895529/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895544@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:⚾ New York Yankees @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895544/yankees-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895544/yankees-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895550@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:⚾ Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rate Field (Chicago)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895550/red-sox-wh
+ ite-sox
+LOCATION:Rate Field\, Chicago
+URL:https://www.espn.com/mlb/game/_/gameId/401895550/red-sox-white-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895563@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270809
+DTEND;VALUE=DATE:20270810
+SUMMARY:⚾ Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rate Field (Chicago)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895563/red-sox-wh
+ ite-sox
+LOCATION:Rate Field\, Chicago
+URL:https://www.espn.com/mlb/game/_/gameId/401895563/red-sox-white-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895578@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:⚾ Boston Red Sox @ Chicago White Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rate Field (Chicago)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895578/red-sox-wh
+ ite-sox
+LOCATION:Rate Field\, Chicago
+URL:https://www.espn.com/mlb/game/_/gameId/401895578/red-sox-white-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895597@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:⚾ Boston Red Sox @ Kansas City Royals
+DESCRIPTION:MLB · Field of Dreams Game\nHora por confirmar\nEstadio: Field
+  of Dreams (Dyersville)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/ga
+ me/_/gameId/401895597/red-sox-royals
+LOCATION:Field of Dreams\, Dyersville
+URL:https://www.espn.com/mlb/game/_/gameId/401895597/red-sox-royals
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895612@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:⚾ Boston Red Sox @ Kansas City Royals
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Kauffman Stadium (Kansas City
+ )\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895612/
+ red-sox-royals
+LOCATION:Kauffman Stadium\, Kansas City
+URL:https://www.espn.com/mlb/game/_/gameId/401895612/red-sox-royals
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895627@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:⚾ Boston Red Sox @ Kansas City Royals
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Kauffman Stadium (Kansas City
+ )\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895627/
+ red-sox-royals
+LOCATION:Kauffman Stadium\, Kansas City
+URL:https://www.espn.com/mlb/game/_/gameId/401895627/red-sox-royals
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895651@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:⚾ Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895651/blue-jays-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895651/blue-jays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895666@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270816
+DTEND;VALUE=DATE:20270817
+SUMMARY:⚾ Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895666/blue-jays-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895666/blue-jays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895681@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:⚾ Toronto Blue Jays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895681/blue-jays-
+ red-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895681/blue-jays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895699@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:⚾ Pittsburgh Pirates @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895699/pirates-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895699/pirates-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895714@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:⚾ Pittsburgh Pirates @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895714/pirates-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895714/pirates-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895729@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:⚾ Pittsburgh Pirates @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895729/pirates-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895729/pirates-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895743@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270824
+SUMMARY:⚾ Boston Red Sox @ San Francisco Giants
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oracle Park (San Francisco)\n
+ TV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895743/red
+ -sox-giants
+LOCATION:Oracle Park\, San Francisco
+URL:https://www.espn.com/mlb/game/_/gameId/401895743/red-sox-giants
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895758@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:⚾ Boston Red Sox @ San Francisco Giants
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oracle Park (San Francisco)\n
+ TV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895758/red
+ -sox-giants
+LOCATION:Oracle Park\, San Francisco
+URL:https://www.espn.com/mlb/game/_/gameId/401895758/red-sox-giants
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895773@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:⚾ Boston Red Sox @ San Francisco Giants
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Oracle Park (San Francisco)\n
+ TV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895773/red
+ -sox-giants
+LOCATION:Oracle Park\, San Francisco
+URL:https://www.espn.com/mlb/game/_/gameId/401895773/red-sox-giants
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895782@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:⚾ Boston Red Sox @ Texas Rangers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Globe Life Field (Arlington)\
+ nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895782/re
+ d-sox-rangers
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.espn.com/mlb/game/_/gameId/401895782/red-sox-rangers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895797@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:⚾ Boston Red Sox @ Texas Rangers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Globe Life Field (Arlington)\
+ nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895797/re
+ d-sox-rangers
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.espn.com/mlb/game/_/gameId/401895797/red-sox-rangers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895812@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:⚾ Boston Red Sox @ Texas Rangers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Globe Life Field (Arlington)\
+ nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895812/re
+ d-sox-rangers
+LOCATION:Globe Life Field\, Arlington
+URL:https://www.espn.com/mlb/game/_/gameId/401895812/red-sox-rangers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895826@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895826/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895826/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895837@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270830
+DTEND;VALUE=DATE:20270831
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895837/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895837/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895852@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895852/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895852/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895866@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:⚾ Baltimore Orioles @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895866/orioles-re
+ d-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895866/orioles-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895882@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:⚾ Seattle Mariners @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895882/mariners-r
+ ed-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895882/mariners-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895897@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:⚾ Seattle Mariners @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895897/mariners-r
+ ed-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895897/mariners-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895912@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:⚾ Seattle Mariners @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895912/mariners-r
+ ed-sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895912/mariners-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895917@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895917/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401895917/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895932@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895932/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401895932/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895947@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:⚾ Boston Red Sox @ Toronto Blue Jays
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Rogers Centre (Toronto)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895947/red-sox
+ -blue-jays
+LOCATION:Rogers Centre\, Toronto
+URL:https://www.espn.com/mlb/game/_/gameId/401895947/red-sox-blue-jays
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895968@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:⚾ Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895968/tigers-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895968/tigers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895983@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:⚾ Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895983/tigers-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895983/tigers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401895998@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:⚾ Detroit Tigers @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895998/tigers-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401895998/tigers-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896021@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270914
+SUMMARY:⚾ Boston Red Sox @ Milwaukee Brewers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: American Family Field (Milwau
+ kee)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4018960
+ 21/red-sox-brewers
+LOCATION:American Family Field\, Milwaukee
+URL:https://www.espn.com/mlb/game/_/gameId/401896021/red-sox-brewers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896036@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:⚾ Boston Red Sox @ Milwaukee Brewers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: American Family Field (Milwau
+ kee)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4018960
+ 36/red-sox-brewers
+LOCATION:American Family Field\, Milwaukee
+URL:https://www.espn.com/mlb/game/_/gameId/401896036/red-sox-brewers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896051@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:⚾ Boston Red Sox @ Milwaukee Brewers
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: American Family Field (Milwau
+ kee)\nTV (EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/4018960
+ 51/red-sox-brewers
+LOCATION:American Family Field\, Milwaukee
+URL:https://www.espn.com/mlb/game/_/gameId/401896051/red-sox-brewers
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896065@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:⚾ Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Yankee Stadium (Bronx)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896065/red-sox-
+ yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401896065/red-sox-yankees
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896080@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:⚾ Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Yankee Stadium (Bronx)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896080/red-sox-
+ yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401896080/red-sox-yankees
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896095@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:⚾ Boston Red Sox @ New York Yankees
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Yankee Stadium (Bronx)\nTV (E
+ E. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896095/red-sox-
+ yankees
+LOCATION:Yankee Stadium\, Bronx
+URL:https://www.espn.com/mlb/game/_/gameId/401896095/red-sox-yankees
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896120@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270920
+DTEND;VALUE=DATE:20270921
+SUMMARY:⚾ Tampa Bay Rays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896120/rays-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401896120/rays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896135@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:⚾ Tampa Bay Rays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896135/rays-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401896135/rays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896148@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:⚾ Tampa Bay Rays @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896148/rays-red-s
+ ox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401896148/rays-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896154@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:⚾ Kansas City Royals @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896154/royals-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401896154/royals-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896169@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:⚾ Kansas City Royals @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896169/royals-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401896169/royals-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401896184@mis-partidos
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:⚾ Kansas City Royals @ Boston Red Sox
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
+  UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401896184/royals-red
+ -sox
+LOCATION:Fenway Park\, Boston
+URL:https://www.espn.com/mlb/game/_/gameId/401896184/royals-red-sox
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
