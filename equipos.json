@@ -1,0 +1,55 @@
+{
+  "calendario": "Mis Equipos",
+  "dias_atras": 45,
+  "equipos": [
+    {
+      "nombre": "Athletic Club",
+      "emoji": "⚽",
+      "deporte": "soccer",
+      "espn_id": "93",
+      "ligas": ["esp.1", "esp.copa_del_rey", "esp.super_cup", "uefa.champions", "uefa.europa", "uefa.europa.conf", "uefa.super_cup", "club.friendly"]
+    },
+    {
+      "nombre": "Real Madrid",
+      "emoji": "⚽",
+      "deporte": "soccer",
+      "espn_id": "86",
+      "ligas": ["esp.1", "esp.copa_del_rey", "esp.super_cup", "uefa.champions", "uefa.europa", "uefa.super_cup", "fifa.cwc", "club.friendly"]
+    },
+    {
+      "nombre": "Boston Celtics",
+      "emoji": "🏀",
+      "deporte": "basketball",
+      "espn_id": "2",
+      "ligas": ["nba"]
+    },
+    {
+      "nombre": "Boston Red Sox",
+      "emoji": "⚾",
+      "deporte": "baseball",
+      "espn_id": "2",
+      "ligas": ["mlb"]
+    },
+    {
+      "nombre": "New England Patriots",
+      "emoji": "🏈",
+      "deporte": "football",
+      "espn_id": "17",
+      "ligas": ["nfl"]
+    },
+    {
+      "nombre": "Guatemala",
+      "emoji": "🇬🇹",
+      "deporte": "soccer",
+      "espn_id": "2652",
+      "ligas": ["fifa.friendly", "concacaf.nations.league", "fifa.worldq.concacaf", "concacaf.gold", "fifa.world"]
+    },
+    {
+      "nombre": "Municipal",
+      "emoji": "⚽",
+      "deporte": "soccer",
+      "espn_id": "7258",
+      "ligas": ["gua.1", "concacaf.central_american_cup", "concacaf.champions", "club.friendly"]
+    }
+  ]
+}
