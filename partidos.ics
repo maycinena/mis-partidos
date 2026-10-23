@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401816842@mis-partidos
-DTSTAMP:20261023T000000Z
-DTSTART:20260907T173500Z
-DTEND:20260907T203500Z
-SUMMARY:⚾ Los Angeles Angels 2 @ Boston Red Sox 5
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
- U.): MLB.TV\, NESN\, Angels.TV\nhttps://www.espn.com/mlb/game/_/gameId/401
- 816842/angels-red-sox
-LOCATION:Fenway Park\, Boston
-URL:https://www.espn.com/mlb/game/_/gameId/401816842/angels-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401915451@mis-partidos
 DTSTAMP:20261023T000000Z
 DTSTART:20260908T190000Z
@@ -799,11 +784,12 @@ UID:espn-401873010@mis-partidos
 DTSTAMP:20261023T000000Z
 DTSTART:20261023T001500Z
 DTEND:20261023T034500Z
-SUMMARY:🏈 New England Patriots @ Chicago Bears
-DESCRIPTION:NFL\nEstadio: Soldier Field (Chicago\, USA)\nTV (EE. UU.): Prim
- e Video\nhttps://www.espn.com/nfl/boxscore/_/gameId/401873010
+SUMMARY:🏈 New England Patriots 24 @ Chicago Bears 30
+DESCRIPTION:NFL\nResultado: Final\nEstadio: Soldier Field (Chicago\, USA)\n
+ TV (EE. UU.): Prime Video\nhttps://www.espn.com/nfl/game/_/gameId/40187301
+ 0/patriots-bears
 LOCATION:Soldier Field\, Chicago\, USA
-URL:https://www.espn.com/nfl/boxscore/_/gameId/401873010
+URL:https://www.espn.com/nfl/game/_/gameId/401873010/patriots-bears
 CATEGORIES:NFL
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
