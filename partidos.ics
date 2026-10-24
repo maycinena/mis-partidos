@@ -10,37 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401915451@mis-partidos
-DTSTAMP:20261024T000000Z
-DTSTART:20260908T190000Z
-DTEND:20260908T210000Z
-SUMMARY:⚽ Real Madrid 2-1 Internazionale
-DESCRIPTION:Champions League\nResultado: FT\nEstadio: Santiago Bernabéu (M
- adrid\, Spain)\nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/matc
- h/_/gameId/401915451/internazionale-real-madrid
-LOCATION:Santiago Bernabéu\, Madrid\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401915451/internazionale-rea
- l-madrid
-CATEGORIES:Champions League
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401816853@mis-partidos
-DTSTAMP:20261024T000000Z
-DTSTART:20260908T224500Z
-DTEND:20260909T014500Z
-SUMMARY:⚾ Los Angeles Angels 6 @ Boston Red Sox 1
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
- U.): MLB.TV\, NESN\, Angels.TV\nhttps://www.espn.com/mlb/game/_/gameId/401
- 816853/angels-red-sox
-LOCATION:Fenway Park\, Boston
-URL:https://www.espn.com/mlb/game/_/gameId/401816853/angels-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401816868@mis-partidos
 DTSTAMP:20261024T000000Z
 DTSTART:20260909T224500Z
@@ -799,11 +768,12 @@ UID:espn-401909095@mis-partidos
 DTSTAMP:20261024T000000Z
 DTSTART:20261023T230000Z
 DTEND:20261024T013000Z
-SUMMARY:🏀 New York Knicks @ Boston Celtics
-DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): Prime Video\nht
- tps://www.espn.com/nba/boxscore/_/gameId/401909095
+SUMMARY:🏀 New York Knicks 103 @ Boston Celtics 107
+DESCRIPTION:NBA\nResultado: Final\nEstadio: TD Garden (Boston)\nTV (EE. UU.
+ ): Prime Video\nhttps://www.espn.com/nba/game/_/gameId/401909095/knicks-ce
+ ltics
 LOCATION:TD Garden\, Boston
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909095
+URL:https://www.espn.com/nba/game/_/gameId/401909095/knicks-celtics
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
