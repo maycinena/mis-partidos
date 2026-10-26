@@ -10,37 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401872656@mis-partidos
-DTSTAMP:20261026T000000Z
-DTSTART:20260910T002000Z
-DTEND:20260910T035000Z
-SUMMARY:🏈 New England Patriots 10 @ Seattle Seahawks 13
-DESCRIPTION:NFL\nResultado: Final\nEstadio: Lumen Field (Seattle\, USA)\nTV
-  (EE. UU.): NBC\nhttps://www.espn.com/nfl/game/_/gameId/401872656/patriots
- -seahawks
-LOCATION:Lumen Field\, Seattle\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872656/patriots-seahawks
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401879550@mis-partidos
-DTSTAMP:20261026T000000Z
-DTSTART:20260910T210000Z
-DTEND:20260910T230000Z
-SUMMARY:⚽ Aurora FC 1-2 Municipal
-DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio Cem
- entos Progreso (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.c
- om/soccer/match/_/gameId/401879550/municipal-aurora-fc
-LOCATION:Estadio Cementos Progreso\, Estadio Cementos Progreso\, Guatemala
-URL:https://www.espn.com/soccer/match/_/gameId/401879550/municipal-aurora-f
- c
-CATEGORIES:Liga Nacional de Guatemala
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401816892@mis-partidos
 DTSTAMP:20261026T000000Z
 DTSTART:20260911T231000Z
