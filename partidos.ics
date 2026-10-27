@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401816892@mis-partidos
-DTSTAMP:20261027T000000Z
-DTSTART:20260911T231000Z
-DTEND:20260912T021000Z
-SUMMARY:⚾ Kansas City Royals 3 @ Boston Red Sox 2
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
- U.): MLB.TV\, Royals.TV\, NESN\nhttps://www.espn.com/mlb/game/_/gameId/401
- 816892/royals-red-sox
-LOCATION:Fenway Park\, Boston
-URL:https://www.espn.com/mlb/game/_/gameId/401816892/royals-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401882886@mis-partidos
 DTSTAMP:20261027T000000Z
 DTSTART:20260912T163000Z
@@ -785,11 +770,12 @@ UID:espn-401909870@mis-partidos
 DTSTAMP:20261027T000000Z
 DTSTART:20261026T233000Z
 DTEND:20261027T020000Z
-SUMMARY:🏀 Chicago Bulls @ Boston Celtics
-DESCRIPTION:NBA\nEstadio: TD Garden (Boston)\nTV (EE. UU.): NBA League Pass
- \nhttps://www.espn.com/nba/boxscore/_/gameId/401909870
+SUMMARY:🏀 Chicago Bulls 99 @ Boston Celtics 134
+DESCRIPTION:NBA\nResultado: Final\nEstadio: TD Garden (Boston)\nTV (EE. UU.
+ ): NBA League Pass\nhttps://www.espn.com/nba/game/_/gameId/401909870/bulls
+ -celtics
 LOCATION:TD Garden\, Boston
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909870
+URL:https://www.espn.com/nba/game/_/gameId/401909870/bulls-celtics
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
