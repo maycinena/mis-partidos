@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401816922@mis-partidos
-DTSTAMP:20261029T000000Z
-DTSTART:20260913T190500Z
-DTEND:20260913T220500Z
-SUMMARY:⚾ Kansas City Royals 1 @ Boston Red Sox 4
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
- U.): MLB.TV\, Royals.TV\, NESN\nhttps://www.espn.com/mlb/game/_/gameId/401
- 816922/royals-red-sox
-LOCATION:Fenway Park\, Boston
-URL:https://www.espn.com/mlb/game/_/gameId/401816922/royals-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401879554@mis-partidos
 DTSTAMP:20261029T000000Z
 DTSTART:20260914T010000Z
@@ -753,10 +738,10 @@ UID:espn-401879597@mis-partidos
 DTSTAMP:20261029T000000Z
 DTSTART:20261029T020000Z
 DTEND:20261029T040000Z
-SUMMARY:⚽ Municipal vs Comunicaciones
-DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio El Trébol (Estadi
- o Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/match/_/game
- Id/401879597/comunicaciones-municipal
+SUMMARY:⚽ Municipal 3-1 Comunicaciones
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio El 
+ Trébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socc
+ er/match/_/gameId/401879597/comunicaciones-municipal
 LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
 URL:https://www.espn.com/soccer/match/_/gameId/401879597/comunicaciones-mun
  icipal
