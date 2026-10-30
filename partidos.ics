@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401879554@mis-partidos
-DTSTAMP:20261030T000000Z
-DTSTART:20260914T010000Z
-DTEND:20260914T030000Z
-SUMMARY:⚽ Municipal 2-2 CD Malacateco
-DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio El 
- Trébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socc
- er/match/_/gameId/401879554/cd-malacateco-municipal
-LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
-URL:https://www.espn.com/soccer/match/_/gameId/401879554/cd-malacateco-muni
- cipal
-CATEGORIES:Liga Nacional de Guatemala
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401882872@mis-partidos
 DTSTAMP:20261030T000000Z
 DTSTART:20260915T193000Z
