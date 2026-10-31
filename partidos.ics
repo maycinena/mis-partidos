@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401882872@mis-partidos
-DTSTAMP:20261031T000000Z
-DTSTART:20260915T193000Z
-DTEND:20260915T213000Z
-SUMMARY:⚽ Elche 2-3 Real Madrid
-DESCRIPTION:LaLiga\nResultado: FT\nEstadio: Estadio Martínez Valero (Elche
- \, Spain)\nTV (EE. UU.): ESPN2\, ESPN Deportes\, ESPN+\nhttps://www.espn.c
- om/soccer/match/_/gameId/401882872/real-madrid-elche
-LOCATION:Estadio Martínez Valero\, Elche\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401882872/real-madrid-elche
-CATEGORIES:LaLiga
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401816951@mis-partidos
 DTSTAMP:20261031T000000Z
 DTSTART:20260916T000500Z
@@ -756,12 +741,12 @@ UID:espn-401909278@mis-partidos
 DTSTAMP:20261031T000000Z
 DTSTART:20261030T233000Z
 DTEND:20261031T020000Z
-SUMMARY:🏀 Chicago Bulls @ Boston Celtics
-DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: TD Garden (Boston)\nTV (E
- E. UU.): NBA League Pass\nhttps://www.espn.com/nba/boxscore/_/gameId/40190
- 9278
+SUMMARY:🏀 Chicago Bulls 111 @ Boston Celtics 125
+DESCRIPTION:NBA · NBA Cup - Group Play\nResultado: Final\nEstadio: TD Gard
+ en (Boston)\nTV (EE. UU.): NBA League Pass\nhttps://www.espn.com/nba/game/
+ _/gameId/401909278/bulls-celtics
 LOCATION:TD Garden\, Boston
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909278
+URL:https://www.espn.com/nba/game/_/gameId/401909278/bulls-celtics
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
