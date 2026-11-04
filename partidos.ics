@@ -760,13 +760,11 @@ UID:espn-401915383@mis-partidos
 DTSTAMP:20261104T000000Z
 DTSTART:20261104T174500Z
 DTEND:20261104T194500Z
-SUMMARY:⚽ AEK Athens vs Real Madrid
+SUMMARY:⚽ AEK Athens 1-1 Real Madrid (en vivo)
 DESCRIPTION:Champions League\nEstadio: OPAP Arena (Athens\, Greece)\nTV (EE
- . UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/401915383/r
- eal-madrid-aek-athens
+ . UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/401915383
 LOCATION:OPAP Arena\, Athens\, Greece
-URL:https://www.espn.com/soccer/match/_/gameId/401915383/real-madrid-aek-at
- hens
+URL:https://www.espn.com/soccer/match/_/gameId/401915383
 CATEGORIES:Champions League
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -828,22 +826,6 @@ LOCATION:Mestalla Stadium\, Manises\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401882808/real-madrid-valenc
  ia
 CATEGORIES:LaLiga
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401879605@mis-partidos
-DTSTAMP:20261104T000000Z
-DTSTART:20261107T230000Z
-DTEND:20261108T010000Z
-SUMMARY:⚽ Municipal vs Aurora FC
-DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio El Trébol (Estadi
- o Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/match/_/game
- Id/401879605/aurora-fc-municipal
-LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
-URL:https://www.espn.com/soccer/match/_/gameId/401879605/aurora-fc-municipa
- l
-CATEGORIES:Liga Nacional de Guatemala
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1110,6 +1092,22 @@ DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: Capital One Arena (Washin
 LOCATION:Capital One Arena\, Washington
 URL:https://www.espn.com/nba/game/_/gameId/401909315/celtics-wizards
 CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401879605@mis-partidos
+DTSTAMP:20261104T000000Z
+DTSTART:20261126T020000Z
+DTEND:20261126T040000Z
+SUMMARY:⚽ Municipal vs Aurora FC
+DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio El Trébol (Estadi
+ o Cementos Progreso\, Guatemala)\nhttps://www.espn.com/soccer/match/_/game
+ Id/401879605/aurora-fc-municipal
+LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
+URL:https://www.espn.com/soccer/match/_/gameId/401879605/aurora-fc-municipa
+ l
+CATEGORIES:Liga Nacional de Guatemala
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
