@@ -10,37 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401882866@mis-partidos
-DTSTAMP:20261104T000000Z
-DTSTART:20260919T141500Z
-DTEND:20260919T161500Z
-SUMMARY:⚽ Athletic Club 0-0 Alavés
-DESCRIPTION:LaLiga\nResultado: FT\nEstadio: San Mamés (Bilbao\, Spain)\nTV
-  (EE. UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gam
- eId/401882866/alaves-athletic-club
-LOCATION:San Mamés\, Bilbao\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401882866/alaves-athletic-cl
- ub
-CATEGORIES:LaLiga
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401816998@mis-partidos
-DTSTAMP:20261104T000000Z
-DTSTART:20260919T201000Z
-DTEND:20260919T231000Z
-SUMMARY:⚾ Boston Red Sox 1 @ Tampa Bay Rays 2
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Tropicana Field (St. Petersburg
- )\nTV (EE. UU.): MLB.TV\, Rays.TV\, NESN\nhttps://www.espn.com/mlb/game/_/
- gameId/401816998/red-sox-rays
-LOCATION:Tropicana Field\, St. Petersburg
-URL:https://www.espn.com/mlb/game/_/gameId/401816998/red-sox-rays
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401882865@mis-partidos
 DTSTAMP:20261104T000000Z
 DTSTART:20260920T141500Z
