@@ -1083,6 +1083,37 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401882790@mis-partidos
+DTSTAMP:20261106T000000Z
+DTSTART:20261128T151500Z
+DTEND:20261128T171500Z
+SUMMARY:⚽ Málaga vs Athletic Club
+DESCRIPTION:LaLiga\nEstadio: La Rosaleda (Malaga\, Spain)\nTV (EE. UU.): ES
+ PN+\nhttps://www.espn.com/soccer/match/_/gameId/401882790/athletic-club-ma
+ laga
+LOCATION:La Rosaleda\, Malaga\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882790/athletic-club-mala
+ ga
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882789@mis-partidos
+DTSTAMP:20261106T000000Z
+DTSTART:20261128T200000Z
+DTEND:20261128T220000Z
+SUMMARY:⚽ Real Madrid vs Alavés
+DESCRIPTION:LaLiga\nEstadio: Santiago Bernabéu (Madrid\, Spain)\nTV (EE. U
+ U.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882789/alaves-re
+ al-madrid
+LOCATION:Santiago Bernabéu\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882789/alaves-real-madrid
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401879619@mis-partidos
 DTSTAMP:20261106T000000Z
 DTSTART:20261128T210000Z
@@ -1096,37 +1127,6 @@ URL:https://www.espn.com/soccer/match/_/gameId/401879619/municipal-suchitep
  equez
 CATEGORIES:Liga Nacional de Guatemala
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401882790@mis-partidos
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:⚽ Málaga vs Athletic Club
-DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: La Rosaleda (Malaga\, Spai
- n)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882
- 790/athletic-club-malaga
-LOCATION:La Rosaleda\, Malaga\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401882790/athletic-club-mala
- ga
-CATEGORIES:LaLiga
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401882789@mis-partidos
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-SUMMARY:⚽ Real Madrid vs Alavés
-DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
- \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
- /401882789/alaves-real-madrid
-LOCATION:Santiago Bernabéu\, Madrid\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401882789/alaves-real-madrid
-CATEGORIES:LaLiga
-STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -1170,6 +1170,22 @@ DESCRIPTION:NBA\nEstadio: American Airlines Center (Dallas)\nTV (EE. UU.):
 LOCATION:American Airlines Center\, Dallas
 URL:https://www.espn.com/nba/game/_/gameId/401910065/celtics-mavericks
 CATEGORIES:NBA
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:espn-401882698@mis-partidos
+DTSTAMP:20261106T000000Z
+DTSTART:20261202T180000Z
+DTEND:20261202T200000Z
+SUMMARY:⚽ Real Sociedad vs Real Madrid
+DESCRIPTION:LaLiga\nEstadio: Reale Arena (San Sebastian\, Spain)\nTV (EE. U
+ U.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882698/real-madr
+ id-real-sociedad
+LOCATION:Reale Arena\, San Sebastian\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882698/real-madrid-real-s
+ ociedad
+CATEGORIES:LaLiga
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
@@ -1985,22 +2001,6 @@ DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
 LOCATION:San Mamés\, Bilbao\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401882705/osasuna-athletic-c
  lub
-CATEGORIES:LaLiga
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401882698@mis-partidos
-DTSTAMP:20261106T000000Z
-DTSTART;VALUE=DATE:20270207
-DTEND;VALUE=DATE:20270208
-SUMMARY:⚽ Real Sociedad vs Real Madrid
-DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Reale Arena (San Sebastian
- \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
- /401882698/real-madrid-real-sociedad
-LOCATION:Reale Arena\, San Sebastian\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401882698/real-madrid-real-s
- ociedad
 CATEGORIES:LaLiga
 STATUS:TENTATIVE
 TRANSP:TRANSPARENT
