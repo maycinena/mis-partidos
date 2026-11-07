@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401817031@mis-partidos
-DTSTAMP:20261107T000000Z
-DTSTART:20260922T224500Z
-DTEND:20260923T014500Z
-SUMMARY:⚾ Cleveland Guardians 3 @ Boston Red Sox 2
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
- U.): MLB.TV\, CLEGuardians.TV\, NESN\nhttps://www.espn.com/mlb/game/_/game
- Id/401817031/guardians-red-sox
-LOCATION:Fenway Park\, Boston
-URL:https://www.espn.com/mlb/game/_/gameId/401817031/guardians-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401817046@mis-partidos
 DTSTAMP:20261107T000000Z
 DTSTART:20260923T230000Z
@@ -745,11 +730,12 @@ UID:espn-401909288@mis-partidos
 DTSTAMP:20261107T000000Z
 DTSTART:20261107T000000Z
 DTEND:20261107T023000Z
-SUMMARY:🏀 Boston Celtics 70 @ Charlotte Hornets 39 (en vivo)
-DESCRIPTION:NBA · NBA Cup - Group Play\nEstadio: Spectrum Center (Charlott
- e)\nhttps://www.espn.com/nba/boxscore/_/gameId/401909288
+SUMMARY:🏀 Boston Celtics 119 @ Charlotte Hornets 80
+DESCRIPTION:NBA · NBA Cup - Group Play\nResultado: Final\nEstadio: Spectru
+ m Center (Charlotte)\nhttps://www.espn.com/nba/game/_/gameId/401909288/cel
+ tics-hornets
 LOCATION:Spectrum Center\, Charlotte
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909288
+URL:https://www.espn.com/nba/game/_/gameId/401909288/celtics-hornets
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
