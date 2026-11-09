@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401817061@mis-partidos
-DTSTAMP:20261109T000000Z
-DTSTART:20260924T224500Z
-DTEND:20260925T014500Z
-SUMMARY:⚾ Cleveland Guardians 1 @ Boston Red Sox 0
-DESCRIPTION:MLB\nResultado: Final\nEstadio: Fenway Park (Boston)\nTV (EE. U
- U.): MLB.TV\, CLEGuardians.TV\, NESN\nhttps://www.espn.com/mlb/game/_/game
- Id/401817061/guardians-red-sox
-LOCATION:Fenway Park\, Boston
-URL:https://www.espn.com/mlb/game/_/gameId/401817061/guardians-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401879564@mis-partidos
 DTSTAMP:20261109T000000Z
 DTSTART:20260925T020000Z
@@ -777,11 +762,12 @@ UID:espn-401909949@mis-partidos
 DTSTAMP:20261109T000000Z
 DTSTART:20261109T010000Z
 DTEND:20261109T033000Z
-SUMMARY:🏀 Boston Celtics @ Milwaukee Bucks
-DESCRIPTION:NBA\nEstadio: Fiserv Forum (Milwaukee)\nTV (EE. UU.): MyMi\, Bu
- cks App\nhttps://www.espn.com/nba/boxscore/_/gameId/401909949
+SUMMARY:🏀 Boston Celtics 117 @ Milwaukee Bucks 97
+DESCRIPTION:NBA\nResultado: Final\nEstadio: Fiserv Forum (Milwaukee)\nTV (E
+ E. UU.): MyMi\, Bucks App\nhttps://www.espn.com/nba/game/_/gameId/40190994
+ 9/celtics-bucks
 LOCATION:Fiserv Forum\, Milwaukee
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909949
+URL:https://www.espn.com/nba/game/_/gameId/401909949/celtics-bucks
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
