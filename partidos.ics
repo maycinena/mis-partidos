@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401900631@mis-partidos
-DTSTAMP:20261111T000000Z
-DTSTART:20260926T000000Z
-DTEND:20260926T020000Z
-SUMMARY:🇬🇹 Jamaica 3-2 Guatemala
-DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Independence
-  Park (Sabina Park\, Jamaica)\nhttps://www.espn.com/soccer/match/_/gameId/
- 401900631/guatemala-jamaica
-LOCATION:Independence Park\, Sabina Park\, Jamaica
-URL:https://www.espn.com/soccer/match/_/gameId/401900631/guatemala-jamaica
-CATEGORIES:Liga de Naciones Concacaf
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401872957@mis-partidos
 DTSTAMP:20261111T000000Z
 DTSTART:20260927T170000Z
@@ -731,11 +716,12 @@ UID:espn-401909961@mis-partidos
 DTSTAMP:20261111T000000Z
 DTSTART:20261111T010000Z
 DTEND:20261111T033000Z
-SUMMARY:🏀 Boston Celtics @ Philadelphia 76ers
-DESCRIPTION:NBA\nEstadio: Xfinity Mobile Arena (Philadelphia)\nTV (EE. UU.)
- : NBC\nhttps://www.espn.com/nba/boxscore/_/gameId/401909961
+SUMMARY:🏀 Boston Celtics 123 @ Philadelphia 76ers 101
+DESCRIPTION:NBA\nResultado: Final\nEstadio: Xfinity Mobile Arena (Philadelp
+ hia)\nTV (EE. UU.): NBC\nhttps://www.espn.com/nba/game/_/gameId/401909961/
+ celtics-76ers
 LOCATION:Xfinity Mobile Arena\, Philadelphia
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909961
+URL:https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
