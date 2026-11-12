@@ -10,36 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401872957@mis-partidos
-DTSTAMP:20261112T000000Z
-DTSTART:20260927T170000Z
-DTEND:20260927T203000Z
-SUMMARY:🏈 New England Patriots 6 @ Jacksonville Jaguars 35
-DESCRIPTION:NFL\nResultado: Final\nEstadio: EverBank Stadium (Jacksonville\
- , USA)\nTV (EE. UU.): CBS\nhttps://www.espn.com/nfl/game/_/gameId/40187295
- 7/patriots-jaguars
-LOCATION:EverBank Stadium\, Jacksonville\, USA
-URL:https://www.espn.com/nfl/game/_/gameId/401872957/patriots-jaguars
-CATEGORIES:NFL
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401817089@mis-partidos
-DTSTAMP:20261112T000000Z
-DTSTART:20260927T190500Z
-DTEND:20260927T220500Z
-SUMMARY:⚾ Chicago Cubs 6 @ Boston Red Sox 2
-DESCRIPTION:MLB · Rescheduled from 9/26\nResultado: Final\nEstadio: Tropic
- ana Field (St. Petersburg)\nTV (EE. UU.): MLB.TV\, Marquee Sports Net\nhtt
- ps://www.espn.com/mlb/game/_/gameId/401817089/cubs-red-sox
-LOCATION:Tropicana Field\, St. Petersburg
-URL:https://www.espn.com/mlb/game/_/gameId/401817089/cubs-red-sox
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401900610@mis-partidos
 DTSTAMP:20261112T000000Z
 DTSTART:20260929T020000Z
@@ -731,11 +701,11 @@ UID:espn-401909968@mis-partidos
 DTSTAMP:20261112T000000Z
 DTSTART:20261112T000000Z
 DTEND:20261112T023000Z
-SUMMARY:🏀 Boston Celtics 54 @ Toronto Raptors 61 (en vivo)
-DESCRIPTION:NBA\nEstadio: Scotiabank Arena (Toronto)\nhttps://www.espn.com/
- nba/boxscore/_/gameId/401909968
+SUMMARY:🏀 Boston Celtics 98 @ Toronto Raptors 93
+DESCRIPTION:NBA\nResultado: Final\nEstadio: Scotiabank Arena (Toronto)\nhtt
+ ps://www.espn.com/nba/game/_/gameId/401909968/celtics-raptors
 LOCATION:Scotiabank Arena\, Toronto
-URL:https://www.espn.com/nba/boxscore/_/gameId/401909968
+URL:https://www.espn.com/nba/game/_/gameId/401909968/celtics-raptors
 CATEGORIES:NBA
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
