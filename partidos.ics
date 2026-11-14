@@ -10,22 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401900610@mis-partidos
-DTSTAMP:20261114T000000Z
-DTSTART:20260929T020000Z
-DTEND:20260929T040000Z
-SUMMARY:🇬🇹 Guatemala 6-0 El Salvador
-DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Estadio El T
- rébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socce
- r/match/_/gameId/401900610/el-salvador-guatemala
-LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
-URL:https://www.espn.com/soccer/match/_/gameId/401900610/el-salvador-guatem
- ala
-CATEGORIES:Liga de Naciones Concacaf
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401907924@mis-partidos
 DTSTAMP:20261114T000000Z
 DTSTART:20260930T000000Z
@@ -715,10 +699,10 @@ UID:espn-401929711@mis-partidos
 DTSTAMP:20261114T000000Z
 DTSTART:20261114T020000Z
 DTEND:20261114T040000Z
-SUMMARY:🇬🇹 Guatemala vs Canada
-DESCRIPTION:Liga de Naciones Concacaf · 1st Leg\nEstadio: Estadio El Tréb
- ol (Estadio Cementos Progreso\, Guatemala)\nTV (EE. UU.): FS2\nhttps://www
- .espn.com/soccer/match/_/gameId/401929711/canada-guatemala
+SUMMARY:🇬🇹 Guatemala 2-3 Canada
+DESCRIPTION:Liga de Naciones Concacaf · 1st Leg\nResultado: FT\nEstadio: E
+ stadio El Trébol (Estadio Cementos Progreso\, Guatemala)\nTV (EE. UU.): F
+ S2\nhttps://www.espn.com/soccer/match/_/gameId/401929711/canada-guatemala
 LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
 URL:https://www.espn.com/soccer/match/_/gameId/401929711/canada-guatemala
 CATEGORIES:Liga de Naciones Concacaf
