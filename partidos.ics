@@ -786,11 +786,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:espn-401910015@mis-partidos
 DTSTAMP:20261114T000000Z
-DTSTART:20261119T020000Z
-DTEND:20261119T043000Z
+DTSTART:20261119T023000Z
+DTEND:20261119T050000Z
 SUMMARY:🏀 Boston Celtics @ Denver Nuggets
-DESCRIPTION:NBA\nEstadio: Ball Arena (Denver)\nhttps://www.espn.com/nba/gam
- e/_/gameId/401910015/celtics-nuggets
+DESCRIPTION:NBA\nEstadio: Ball Arena (Denver)\nTV (EE. UU.): ESPN\nhttps://
+ www.espn.com/nba/game/_/gameId/401910015/celtics-nuggets
 LOCATION:Ball Arena\, Denver
 URL:https://www.espn.com/nba/game/_/gameId/401910015/celtics-nuggets
 CATEGORIES:NBA
