@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401907924@mis-partidos
-DTSTAMP:20261115T000000Z
-DTSTART:20260930T000000Z
-DTEND:20260930T030000Z
-SUMMARY:⚾ Boston Red Sox 0 @ New York Yankees 9
-DESCRIPTION:MLB · Playoffs · ALWC - Game 1\nResultado: Final\nEstadio: Ya
- nkee Stadium (Bronx)\nTV (EE. UU.): NBC\, ERADM\nhttps://www.espn.com/mlb/
- game/_/gameId/401907924/red-sox-yankees
-LOCATION:Yankee Stadium\, Bronx
-URL:https://www.espn.com/mlb/game/_/gameId/401907924/red-sox-yankees
-CATEGORIES:MLB
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401907963@mis-partidos
 DTSTAMP:20261115T000000Z
 DTSTART:20261001T000000Z
@@ -714,10 +699,10 @@ UID:espn-401879609@mis-partidos
 DTSTAMP:20261115T000000Z
 DTSTART:20261115T010000Z
 DTEND:20261115T030000Z
-SUMMARY:⚽ CD Malacateco vs Municipal
-DESCRIPTION:Liga Nacional de Guatemala\nEstadio: Estadio Municipal Santa Lu
- cía (Malacatán\, Guatemala)\nhttps://www.espn.com/soccer/match/_/gameId/
- 401879609/municipal-cd-malacateco
+SUMMARY:⚽ CD Malacateco 0-1 Municipal
+DESCRIPTION:Liga Nacional de Guatemala\nResultado: FT\nEstadio: Estadio Mun
+ icipal Santa Lucía (Malacatán\, Guatemala)\nhttps://www.espn.com/soccer/
+ match/_/gameId/401879609/municipal-cd-malacateco
 LOCATION:Estadio Municipal Santa Lucía\, Malacatán\, Guatemala
 URL:https://www.espn.com/soccer/match/_/gameId/401879609/municipal-cd-malac
  ateco
