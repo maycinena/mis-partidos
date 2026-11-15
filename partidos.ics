@@ -715,10 +715,10 @@ UID:espn-401873053@mis-partidos
 DTSTAMP:20261115T000000Z
 DTSTART:20261115T143000Z
 DTEND:20261115T180000Z
-SUMMARY:🏈 New England Patriots @ Detroit Lions
-DESCRIPTION:NFL · NFL Munich Game\nEstadio: FC Bayern Munich Stadium (Muni
- ch\, Germany)\nTV (EE. UU.): Fox\nhttps://www.espn.com/nfl/game/_/gameId/4
- 01873053/patriots-lions
+SUMMARY:🏈 New England Patriots 10 @ Detroit Lions 35
+DESCRIPTION:NFL · NFL Munich Game\nResultado: Final\nEstadio: FC Bayern Mu
+ nich Stadium (Munich\, Germany)\nTV (EE. UU.): Fox\nhttps://www.espn.com/n
+ fl/game/_/gameId/401873053/patriots-lions
 LOCATION:FC Bayern Munich Stadium\, Munich\, Germany
 URL:https://www.espn.com/nfl/game/_/gameId/401873053/patriots-lions
 CATEGORIES:NFL
@@ -1043,17 +1043,17 @@ END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882785@mis-partidos
 DTSTAMP:20261115T000000Z
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
+DTSTART:20261206T151500Z
+DTEND:20261206T171500Z
 SUMMARY:⚽ Athletic Club vs Real Madrid
-DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: San Mamés (Bilbao\, Spain
- )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
- 85/real-madrid-athletic-club
+DESCRIPTION:LaLiga\nEstadio: San Mamés (Bilbao\, Spain)\nTV (EE. UU.): ESP
+ N+\nhttps://www.espn.com/soccer/match/_/gameId/401882785/real-madrid-athle
+ tic-club
 LOCATION:San Mamés\, Bilbao\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401882785/real-madrid-athlet
  ic-club
 CATEGORIES:LaLiga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
