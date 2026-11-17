@@ -955,10 +955,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:espn-401873093@mis-partidos
 DTSTAMP:20261117T000000Z
-DTSTART:20261130T012000Z
-DTEND:20261130T045000Z
+DTSTART:20261129T210500Z
+DTEND:20261130T003500Z
 SUMMARY:🏈 New England Patriots @ Los Angeles Chargers
-DESCRIPTION:NFL\nEstadio: SoFi Stadium (Inglewood\, USA)\nTV (EE. UU.): NBC
+DESCRIPTION:NFL\nEstadio: SoFi Stadium (Inglewood\, USA)\nTV (EE. UU.): CBS
  \nhttps://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers
 LOCATION:SoFi Stadium\, Inglewood\, USA
 URL:https://www.espn.com/nfl/game/_/gameId/401873093/patriots-chargers
