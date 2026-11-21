@@ -10,21 +10,6 @@ X-WR-TIMEZONE:America/Guatemala
 REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
-UID:espn-401900581@mis-partidos
-DTSTAMP:20261121T000000Z
-DTSTART:20261006T000000Z
-DTEND:20261006T020000Z
-SUMMARY:🇬🇹 Guatemala 1-0 Suriname
-DESCRIPTION:Liga de Naciones Concacaf\nResultado: FT\nEstadio: Estadio El T
- rébol (Estadio Cementos Progreso\, Guatemala)\nhttps://www.espn.com/socce
- r/match/_/gameId/401900581/suriname-guatemala
-LOCATION:Estadio El Trébol\, Estadio Cementos Progreso\, Guatemala
-URL:https://www.espn.com/soccer/match/_/gameId/401900581/suriname-guatemala
-CATEGORIES:Liga de Naciones Concacaf
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:espn-401879561@mis-partidos
 DTSTAMP:20261121T000000Z
 DTSTART:20261009T010000Z
