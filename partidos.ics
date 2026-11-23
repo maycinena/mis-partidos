@@ -969,6 +969,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401936399@mis-partidos
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:⚽ Numancia vs Athletic Club
+DESCRIPTION:Copa del Rey\nHora por confirmar\nEstadio: Los Pajaritos (Soria
+ \, Spain)\nhttps://www.espn.com/soccer/match/_/gameId/401936399/athletic-c
+ lub-numancia
+LOCATION:Los Pajaritos\, Soria\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401936399/athletic-club-numa
+ ncia
+CATEGORIES:Copa del Rey
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910078@mis-partidos
 DTSTAMP:20261123T000000Z
 DTSTART:20261203T003000Z
@@ -989,8 +1005,8 @@ DTSTART:20261206T151500Z
 DTEND:20261206T171500Z
 SUMMARY:⚽ Athletic Club vs Real Madrid
 DESCRIPTION:LaLiga\nEstadio: San Mamés (Bilbao\, Spain)\nTV (EE. UU.): ESP
- N+\nhttps://www.espn.com/soccer/match/_/gameId/401882785/real-madrid-athle
- tic-club
+ N Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882785/r
+ eal-madrid-athletic-club
 LOCATION:San Mamés\, Bilbao\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401882785/real-madrid-athlet
  ic-club
@@ -1046,33 +1062,33 @@ END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882774@mis-partidos
 DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T151500Z
+DTEND:20261213T171500Z
 SUMMARY:⚽ Deportivo vs Athletic Club
-DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Riazor (La Coruña\, Spain
- )\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/4018827
- 74/athletic-club-deportivo
+DESCRIPTION:LaLiga\nEstadio: Riazor (La Coruña\, Spain)\nTV (EE. UU.): ESP
+ N+\nhttps://www.espn.com/soccer/match/_/gameId/401882774/athletic-club-dep
+ ortivo
 LOCATION:Riazor\, La Coruña\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401882774/athletic-club-depo
  rtivo
 CATEGORIES:LaLiga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:espn-401882769@mis-partidos
 DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20261213
-DTEND;VALUE=DATE:20261214
+DTSTART:20261213T200000Z
+DTEND:20261213T220000Z
 SUMMARY:⚽ Real Madrid vs Osasuna
-DESCRIPTION:LaLiga\nHora por confirmar\nEstadio: Santiago Bernabéu (Madrid
- \, Spain)\nTV (EE. UU.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId
- /401882769/osasuna-real-madrid
+DESCRIPTION:LaLiga\nEstadio: Santiago Bernabéu (Madrid\, Spain)\nTV (EE. U
+ U.): ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/401882769/osasuna-r
+ eal-madrid
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401882769/osasuna-real-madri
  d
 CATEGORIES:LaLiga
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -2244,6 +2260,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401893770@mis-partidos
+DTSTAMP:20261123T000000Z
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:⚾ Boston Red Sox @ Seattle Mariners
+DESCRIPTION:MLB\nHora por confirmar\nEstadio: T-Mobile Park (Seattle)\nTV (
+ EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893770/red-sox
+ -mariners
+LOCATION:T-Mobile Park\, Seattle
+URL:https://www.espn.com/mlb/game/_/gameId/401893770/red-sox-mariners
+CATEGORIES:MLB
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401910803@mis-partidos
 DTSTAMP:20261123T000000Z
 DTSTART:20270324T233000Z
@@ -2255,21 +2286,6 @@ LOCATION:TD Garden\, Boston
 URL:https://www.espn.com/nba/game/_/gameId/401910803/spurs-celtics
 CATEGORIES:NBA
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401893770@mis-partidos
-DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20270324
-DTEND;VALUE=DATE:20270325
-SUMMARY:⚾ Boston Red Sox @ Seattle Mariners
-DESCRIPTION:MLB\nHora por confirmar\nEstadio: T-Mobile Park (Seattle)\nTV (
- EE. UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401893770/red-sox
- -mariners
-LOCATION:T-Mobile Park\, Seattle
-URL:https://www.espn.com/mlb/game/_/gameId/401893770/red-sox-mariners
-CATEGORIES:MLB
-STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
@@ -4109,8 +4125,8 @@ END:VEVENT
 BEGIN:VEVENT
 UID:espn-401895220@mis-partidos
 DTSTAMP:20261123T000000Z
-DTSTART;VALUE=DATE:20270715
-DTEND;VALUE=DATE:20270716
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
 SUMMARY:⚾ Atlanta Braves @ Boston Red Sox
 DESCRIPTION:MLB\nHora por confirmar\nEstadio: Fenway Park (Boston)\nTV (EE.
   UU.): MLB.TV\nhttps://www.espn.com/mlb/game/_/gameId/401895220/braves-red
