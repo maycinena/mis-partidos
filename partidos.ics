@@ -789,10 +789,10 @@ UID:espn-401915298@mis-partidos
 DTSTAMP:20261124T000000Z
 DTSTART:20261124T200000Z
 DTEND:20261124T220000Z
-SUMMARY:⚽ Real Madrid vs PSV Eindhoven
-DESCRIPTION:Champions League\nEstadio: Santiago Bernabéu (Madrid\, Spain)\
- nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/match/_/gameId/4019
- 15298/psv-eindhoven-real-madrid
+SUMMARY:⚽ Real Madrid 5-1 PSV Eindhoven
+DESCRIPTION:Champions League\nResultado: FT\nEstadio: Santiago Bernabéu (M
+ adrid\, Spain)\nTV (EE. UU.): Paramount+\nhttps://www.espn.com/soccer/matc
+ h/_/gameId/401915298/psv-eindhoven-real-madrid
 LOCATION:Santiago Bernabéu\, Madrid\, Spain
 URL:https://www.espn.com/soccer/match/_/gameId/401915298/psv-eindhoven-real
  -madrid
@@ -937,6 +937,21 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401936399@mis-partidos
+DTSTAMP:20261124T000000Z
+DTSTART:20261201T200000Z
+DTEND:20261201T220000Z
+SUMMARY:⚽ Numancia vs Athletic Club
+DESCRIPTION:Copa del Rey\nEstadio: Los Pajaritos (Soria\, Spain)\nhttps://w
+ ww.espn.com/soccer/match/_/gameId/401936399/athletic-club-numancia
+LOCATION:Los Pajaritos\, Soria\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401936399/athletic-club-numa
+ ncia
+CATEGORIES:Copa del Rey
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401882698@mis-partidos
 DTSTAMP:20261124T000000Z
 DTSTART:20261202T180000Z
@@ -950,22 +965,6 @@ URL:https://www.espn.com/soccer/match/_/gameId/401882698/real-madrid-real-s
  ociedad
 CATEGORIES:LaLiga
 STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:espn-401936399@mis-partidos
-DTSTAMP:20261124T000000Z
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
-SUMMARY:⚽ Numancia vs Athletic Club
-DESCRIPTION:Copa del Rey\nHora por confirmar\nEstadio: Los Pajaritos (Soria
- \, Spain)\nhttps://www.espn.com/soccer/match/_/gameId/401936399/athletic-c
- lub-numancia
-LOCATION:Los Pajaritos\, Soria\, Spain
-URL:https://www.espn.com/soccer/match/_/gameId/401936399/athletic-club-numa
- ncia
-CATEGORIES:Copa del Rey
-STATUS:TENTATIVE
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
