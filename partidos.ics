@@ -996,6 +996,22 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:espn-401882849@mis-partidos
+DTSTAMP:20261125T000000Z
+DTSTART:20261209T190000Z
+DTEND:20261209T210000Z
+SUMMARY:⚽ Rayo Vallecano vs Athletic Club
+DESCRIPTION:LaLiga\nEstadio: Estadio de Vallecas (Madrid\, Spain)\nTV (EE. 
+ UU.): ESPN Deportes\, ESPN+\nhttps://www.espn.com/soccer/match/_/gameId/40
+ 1882849/athletic-club-rayo-vallecano
+LOCATION:Estadio de Vallecas\, Madrid\, Spain
+URL:https://www.espn.com/soccer/match/_/gameId/401882849/athletic-club-rayo
+ -vallecano
+CATEGORIES:LaLiga
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:espn-401915367@mis-partidos
 DTSTAMP:20261125T000000Z
 DTSTART:20261209T200000Z
